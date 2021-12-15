@@ -9,6 +9,3 @@
 
 </div>
 
-
-- [Security](https://github.com/Anlominus/Security)
-- [Cosmos Labs](https://github.com/Anlominus/Cosmos-Labs)
