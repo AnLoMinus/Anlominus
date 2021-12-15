@@ -5,7 +5,7 @@
 
 <div align="center">
  
-![image](https://user-images.githubusercontent.com/51442719/145925225-c86da149-f8b2-4fb1-a769-ca49fcf0b561.png)
+<!-- ![image]() -->
 
 </div>
 
