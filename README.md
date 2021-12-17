@@ -11,9 +11,9 @@
 
 - [HacKing](https://github.com/Anlominus/HacKing)
 
-- [PenTest]()
+- [PenTest](https://github.com/Anlominus/PenTest)
 
-- [WorKing]()
+- [WorKing](https://github.com/Anlominus/WorKing)
 
 
 
