@@ -10,13 +10,13 @@
 </div>
 
 
-#### Learning Paths:
+## Profiles:
 
 
 <details>
 
  <summary>
-Challenges Profiles: 
+Challenges: 
   </summary>
  
 <h5> 
@@ -37,6 +37,33 @@ Challenges Profiles:
 
 </details>
 
+
+<details>
+
+ <summary>
+Learning:
+  </summary>
+ <h5>
+
+- <a href="https://docs.microsoft.com/en-us/users/anlominus/">Microsoft Learn</a> 
+</h5>
+</details>
+
+
+<details>
+
+ <summary>
+Working:
+  </summary>
+ <h5>
+
+- <p align="">GitHub: <a href="https://github.com/Cosmos-Labs/Cosmos-Labs">Cosmos Labs</a> - <a href="https://github.com/Cosmos-Labs/AnlominusKits">AnlominusKits<a/> - <a href="https://github.com/Cosmos-Labs/">Cosmos-Labs<a/></p>
+
+- <p align="">CodePen: <a href="https://codepen.io/Anlominus">CodePen</a></p>
+   
+ 
+ </h5>
+</details>
 
 <p align="center"><a href="https://github.com/Anlominus">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
