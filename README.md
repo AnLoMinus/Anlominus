@@ -80,4 +80,6 @@ Working:
 <a href="https://github.com/Anlominus"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlominus&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-
+<p align="center">
+  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
+</p>
