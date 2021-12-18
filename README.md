@@ -14,10 +14,10 @@
 </h4>
 
 
-## Profiles:
 
+# Profiles:
 
-<details>
+<details align="center">
 
  <summary>
 Challenges: 
@@ -25,45 +25,34 @@ Challenges:
  
 <h5> 
 
-- <a href="https://tryhackme.com/p/Anlominus">Try Hack Me</a>  
-
-- <a href="https://scs.hacking-lab.com/events">Hacking Lab</a> 
-
-- <a href="https://hackerone.com/anlominus?type=user">HackerOne</a> 
-
-- <a href="https://www.ctfsecurinets.com/users/3839">ctfsecurinets</a> 
-
-- <a href="https://www.root-me.org/%E2%80%AAAnlominus?inc=info&lang=en">root-me</a>
-
-- [LeetCode](https://leetcode.com/Anlominus/)
+<a href="https://tryhackme.com/p/Anlominus">Try Hack Me</a> - <a href="https://scs.hacking-lab.com/events">Hacking Lab</a> - <a href="https://hackerone.com/anlominus?type=user">HackerOne</a> - <a href="https://www.ctfsecurinets.com/users/3839">ctfsecurinets</a> - <a href="https://www.root-me.org/%E2%80%AAAnlominus?inc=info&lang=en">root-me</a> - [LeetCode](https://leetcode.com/Anlominus/)
     
 </h5>
 
 </details>
 
 
-<details>
+<details align="center">
 
  <summary>
 Learning:
   </summary>
  <h5>
 
-- <a href="https://docs.microsoft.com/en-us/users/anlominus/">Microsoft Learn</a> 
-</h5>
+<a href="https://docs.microsoft.com/en-us/users/anlominus/">Microsoft Learn</a> 
+
+ </h5>
 </details>
 
 
-<details>
+<details align="center">
 
  <summary>
 Working:
   </summary>
  <h5>
 
-- <p align="">GitHub: <a href="https://github.com/Cosmos-Labs/Cosmos-Labs">Cosmos Labs</a> - <a href="https://github.com/Cosmos-Labs/AnlominusKits">AnlominusKits<a/> - <a href="https://github.com/Cosmos-Labs/">Cosmos-Labs<a/></p>
-
-- <p align="">CodePen: <a href="https://codepen.io/Anlominus">CodePen</a></p>
+<p align="">GitHub: <a href="https://github.com/Cosmos-Labs/Cosmos-Labs">Cosmos Labs</a> - <a href="https://github.com/Cosmos-Labs/AnlominusKits">AnlominusKits<a/> - <a href="https://github.com/Cosmos-Labs/">Cosmos-Labs<a/></p> - <p align="">CodePen: <a href="https://codepen.io/Anlominus">CodePen</a></p>
    
  
  </h5>
