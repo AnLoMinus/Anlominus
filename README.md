@@ -48,7 +48,7 @@
   </summary>
  <h5>
 
-<p align="">GitHub: <a href="https://github.com/Cosmos-Labs/Cosmos-Labs">Cosmos Labs</a> - <a href="https://github.com/Cosmos-Labs/AnlominusKits">AnlominusKits<a/> - <a href="https://github.com/Cosmos-Labs/">Cosmos-Labs<a/></p> - <p align="">CodePen: <a href="https://codepen.io/Anlominus">CodePen</a></p>
+  <p align="">CodePen: <a href="https://codepen.io/Anlominus">CodePen</a></p>
    
  
  </h5>
