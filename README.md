@@ -6,7 +6,7 @@
 
 <h1 align="center">⚜️ ༺ Aภl๏miuภuຮ ༻ ⚜️</h1>
 
-<h4 align="center">🔱 🇮🇱 We believe in God, everyone else is suspicious 🇮🇱 🔱</h4>
+<h4 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h4>
 
 <h4 align="center">
 
@@ -20,7 +20,7 @@
 <details align="center">
 
  <summary>
-Challenges: 
+༺ Challenges ༻ 
   </summary>
  
 <h5> 
@@ -35,7 +35,7 @@ Challenges:
 <details align="center">
 
  <summary>
-Learning:
+⫷ Learning ⫸
   </summary>
  <h5>
 
@@ -48,7 +48,7 @@ Learning:
 <details align="center">
 
  <summary>
-Working:
+⫷ Working ⫸
   </summary>
  <h5>
 
