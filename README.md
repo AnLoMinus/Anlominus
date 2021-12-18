@@ -13,6 +13,9 @@
 ![image](https://user-images.githubusercontent.com/51442719/146405826-5c91746b-142c-43a4-9c71-b04915b25fdf.png)
 
 ⫷ [HacKing](https://github.com/Anlominus/HacKing) - [PenTest](https://github.com/Anlominus/PenTest) - [WorKing](https://github.com/Anlominus/WorKing) ⫸
+
+ <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
+
 </h4>
 
 <details align="center">
@@ -65,11 +68,10 @@
 
 <p align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlominus&layout=compact&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /> 
  
  <br>
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /> 
-  
- <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlominus&layout=compact&theme=react&hide_border=true" />
+  
 </p>
