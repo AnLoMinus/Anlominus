@@ -6,9 +6,9 @@
 
 <h2 align="center">⚜️ Aภl๏miuภuຮ ⚜️</h2>
 
-<h4 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h4>
+<h5 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h5>
 
-<h4 align="center">
+<h6 align="center">
 
 ![image](https://user-images.githubusercontent.com/51442719/146405826-5c91746b-142c-43a4-9c71-b04915b25fdf.png)
 
@@ -16,7 +16,7 @@
 
  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
 
-</h4>
+</h6>
 
 <details align="center">
 
