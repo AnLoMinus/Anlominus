@@ -4,7 +4,7 @@
 
 </div> -->
 
-<h1 align="center">⚜️ Aภl๏miuภuຮ ⚜️</h1>
+<h2 align="center">⚜️ Aภl๏miuภuຮ ⚜️</h2>
 
 <h4 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h4>
 
