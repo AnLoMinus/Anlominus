@@ -14,7 +14,9 @@
 
 ⫷ [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [PenTest](https://github.com/Anlominus/PenTest) - [WorKing](https://github.com/Anlominus/WorKing) - [Stars](https://github.com/Anlominus?tab=stars) ⫸
 
- <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
+ ⫷[D̷̨̥̥̥͖̞͐ͮ̄A̳̳̹̟̋ͣ͌ͅT̼̼̖̾͟͞Ơ̷̴̪̪̝͈̥͈̆̀̚S̢̼̼͖̺͖ͪ](https://github.com/Anlominus/Anlominus/blob/main/DATOS.md)⫸
+
+<img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
 
 </h6>
 
