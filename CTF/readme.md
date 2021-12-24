@@ -2,6 +2,7 @@
 
 ## Competition
  * [TryHackMe](https://tryhackme.com)
+ * [HackTheBox](https://www.hackthebox.eu/)
  * [DEF CON](https://legitbs.net/)
  * [CSAW CTF](https://ctf.isis.poly.edu/)
  * [hack.lu CTF](http://hack.lu/)
@@ -16,4 +17,3 @@
  * [Insomni’hack](https://insomnihack.ch/)
  * [Pico CTF](https://picoctf.com/)
  * [prompt(1) to win](http://prompt.ml/) - XSS Challenges
- * [HackTheBox](https://www.hackthebox.eu/)
