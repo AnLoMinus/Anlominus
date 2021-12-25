@@ -60,100 +60,177 @@ Stego
 ======
 
 Digital Cube HTB{QR_!snt_d34d}
+
 Forest HTB{AmAz1nGsKilLzZBr0}
+
 Pusheen Loves Graphs HTB{fUn_w17h_CFGz}
+
 Retro HTB{r3tr0-1s-4l1v3}
+
 Senseless Behaviour HTB{bindasabat}
+
 Not Art HTB{I_tOlD_yOu_ThAt_ThIs_WaS_nOt_ArT_nOr_PiEt!!}
+
 Massacre HTB{m4k3_p1xels_n0t_war!}
+
 Image Processing 101 HTB{Scr!pt_K!dd!e_Pr00f_DFT}
+
 Unprintable HTB{c0mpr3ss3d_RL3_br41nfuck_1s_n0t_fun}
+
 BlackSquare HTB{LE4RNMOR5ECOOO00D3}
+
+---
 
 Pwn
 ===
 
 Ropme HTB{r0p_m3_if_y0u_c4n!}
+
 ropmev2 HTB{r0t_r0p_4nd_p0p}
+
 Little Tommy HTB{I_am_so_heaped_up_right_now}
+
 Space HTB{sh3llc0de_1n_7h3_5p4c3}
+
 Dream Diary: Chapter 1 HTB{Singl3?_NO!_D0ubl3?_NO!_Tr1pl3_Unsaf3_Unlink}
+
 Dream Diary: Chapter 2 HTB{wh@t_Th3_fuck_!s_NULL_byt3_p01sOn!ng???
+
 Dream Diary: Chapter 3 HTB{m0d3rN_Nu11_bYT3+s3cC0mP_b1@Ck1i5t1Ng=>n0t_s0_S@f3!!!}
+
 Old Bridge HTB{q4i1q3_i1i3_p0a_a01}
+
 Kernel Adventures: Part 1 HTB{C0ngr4ts_y0u_3xpl0it3d_A_D0uBlE-FeTcH}
+
 You know 0xDiablos HTB{0ur_Buff3r_1s_not_healthy}
+
 No Return HTB{y0uv3_35c4p3d_7h3_v01d_0f_n0_r37urn}
+
 Sick Rop HTB{why_st0p_wh3n_y0u_cAn_s1GRoP!?}
+
 Hunting HTB{H0w_0n_34rth_d1d_y0u_f1nd_m3?!?}
+
+---
 
 Web
 ===
 
 I know Mag1k HTB{Padd1NG_Or4cl3z_AR3_WaY_T0o_6en3r0ys_ArenT_tHey???}
+
 Grammar HTB{TypejugAlingSOulS}
+
 Lernaean HTB{l1k3_4_b0s5_s0n}
+
 Emdee five for life HTB{N1c3_ScrIpt1nG_B0i!}
+
 Fuzzy HTB{h0t_fuzz3r}
+
 Freelancer HTB{s4ff_3_1_w33b_fr4__l33nc_3}
+
 ezpz HTB{T0oE4syP34syL4m3SQLiF!lt3rs}
+
 Interdimensional Internet HTB{d1d_y0u_h4v3_FuN_c4lcul4t1nG_Th3_d4rK_m4tt3r?!}
+
 Under Construction HTB{d0n7_3xp053_y0ur_publ1ck3y}
+
 Console HTB{PhP!Cons0lE@ByTh3K+FoUnd+}
+
 wafwaf HTB{w4f_w4fing_my_w4y_0utt4_h3r3}
+
 Baby Ninja Jinja HTB{b4by_bl1nd_ninj4s_d0nt_g3t_qu0t3d_0r_c4ughT}
+
 ImageTok HTB{I_34T_ph4r_c3r34L_4nD_g0ph3r_f0r_br34kf4st}
+
 Breaking Grad HTB{l00s1ng_t3nur3_l1k3_it5_fr1d4y_m0rn1ng}
+
 Mr Burns HTB{wh3n_l1f3_g1v3s_y0u_🍊_4nd_f4st-cg1...}
+
+---
 
 Misc
 ====
 
 0ld is g0ld HTB{R1PSAMU3LM0RS3}
+
 misDIRection HTB{DIR3ctLy_1n_Pl41n_Si7e}
+
 Eternal loop HTB{z1p_and_unz1p_ma_bruddahs}
+
 longbottom's Locker HTB{n3v1LL3_Da_burM3s3-pyth0n_sL4y3r}
+
 Blackhole HTB{N3veR_l3T_tH3_b4sTaRd5_G3t_Y0u_d0wN}
+
 Matrioshka HTB{S4vv4_M4mont0v_}
+
 Crooked Croockford HTB{allthosenumbers}
+
 ExploitedStream HTB{0fbuSc4t1ng_1s_N0t_s3curE,1s_IT???}
+
 M0rsarchive HTB{D0_y0u_L1k3_m0r53??}
+
 Crime HTB{Wh0_w4nt5_t0_l34rn_4n4Ly71c_g30m3try?}
-QuickR HTB{@lriGh7_1_tH1nK_y0u`r3_QuickR_s0ldi3r}
+
+```QuickR HTB{@lriGh7_1_tH1nK_y0u`r3_QuickR_s0ldi3r}```
+
 The secret of a Queen HTB{THEBABINGTONPLOT}
+
+---
 
 Forensics
 =========
 
 Reminiscent HTB{$_j0G_y0uRM3m0rY$}
+
 Blue Shadow HTB{A862BC50162B5BFA6ED8167898E843E4}
+
 Took the Byte HTB{27AjFDkqi1wJ}
+
 USB Ripper HTB{mychemicalromance}
+
 Obscure HTB{pr0tect_y0_shellZ}
+
 Illumination HTB{v3rsi0n_c0ntr0l_am_I_right?}
+
 Forget me not HTB{W3lL_i_KN0w_mY_M3m0RY_i5_5h4tT3R3d}
+
 oBfsC4t10n HTB{g0_G3t_th3_ph1sh3R}
+
 oBfsC4t10n2 HTB{eXc3l_4.0_M4cr0s_r_b4cK}
+
 MarketDump HTB{DonTRuNAsRoOt!MESsEdUpMarket}
+
 Window's Infinity Edge HTB{Tr0lling_Ant1_D3buGGeR_trickz_R_fun!}
+
+---
 
 Mobile
 ======
 
 Cryptohorrific HTB{%SoC00l_H4ckTh3b0xbyBs3cur31stCh4ll3ng3!!Cr4zY%}
+
 Cat HTB{ThisBackupIsUnprotected}
+
+---
 
 OSINT
 =====
 
 Easy phish HTB{RIP_SPF_Always_2nd_F1ddl3_2_DMARC}
+
 Infiltration HTB{Y0ur_Enum3rat10n_1s_Str0ng_Y0ung_0ne}
+
 We have a leak HTB{Sav3_The_Startup_Sav3_The_W0rld#Hiro}
+
 Breach HTB{P4ssw0rd_Br3ach3s_C4n_B3_A_Tr3asur3_Trov3_0f_Inf0rmati0n}
+
 Kryptic Ransomware HTB{Stop_Ge0tagg1ng_your_Phot0s}
+
 Missing in Action {J4Va_c0St_M3_m0r3_than_1_th0ugh7}
+
 Money Flowz HTB{CryPt0Curr3ncy_1s_FuNz!!}
+
 ID xposed HTB{i_W4S_D_I_S_c_O_v_3_R_3_D}
+
 Block Hunt3r HTB{H4v1ngFuN::W1tH-th3;d0ubl3-edg3d::Sw0Rd$$}
 
 Hardware
