@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/146405826-5c91746b-142c-43a4-9c71-b04915b25fdf.png)
 
-⫷ [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [HackTheBox](https://www.hackthebox.com/home/users/profile/150095) -  [PenTest](https://github.com/Anlominus/PenTest) - [WorKing](https://github.com/Anlominus/WorKing) - [Stars](https://github.com/Anlominus?tab=stars) ⫸
+⫷ [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [PenTest](https://github.com/Anlominus/PenTest) - [WorKing](https://github.com/Anlominus/WorKing) - [Stars](https://github.com/Anlominus?tab=stars) ⫸
 
 <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
 
@@ -32,7 +32,7 @@
  
 <h5> 
 
-<a href="https://tryhackme.com/p/Anlominus">Try Hack Me</a> - <a href="https://scs.hacking-lab.com/events">Hacking Lab</a> - <a href="https://hackerone.com/anlominus?type=user">HackerOne</a> - <a href="https://www.ctfsecurinets.com/users/3839">ctfsecurinets</a> - <a href="https://www.root-me.org/%E2%80%AAAnlominus?inc=info&lang=en">root-me</a> - [LeetCode](https://leetcode.com/Anlominus/)
+<a href="https://tryhackme.com/p/Anlominus">Try Hack Me</a> - <a href="https://scs.hacking-lab.com/events">Hacking Lab</a> - <a href="https://hackerone.com/anlominus?type=user">HackerOne</a> - <a href="https://www.ctfsecurinets.com/users/3839">ctfsecurinets</a> - <a href="https://www.root-me.org/%E2%80%AAAnlominus?inc=info&lang=en">root-me</a> - [LeetCode](https://leetcode.com/Anlominus/) - [HackTheBox](https://www.hackthebox.com/home/users/profile/150095) 
     
 </h5>
 
