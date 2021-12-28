@@ -1,7 +1,6 @@
 #!/usr/bin/bash
 # Monitoring Script
 
-
 echo "Enter the IP address of the Application Server"
 read application_server_ip
 echo "Enter email address to send Monit alerts to"
