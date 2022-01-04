@@ -42,7 +42,7 @@
 ```
   ---
  
-<h4 align="center">
+<h2 align="center">
 
 🌀 גַּם כִּי אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא אִירָא רָע כִּי אַתָּה עִמָּדִי 🌀
 
@@ -105,19 +105,12 @@
 
 ` Unix הוא ידידותי למשתמש. הוא רק סלקטיבי לגבי מי הם המשתמשים שלו.`
 
-
-
 [עמיר בניון - געגוע](https://www.youtube.com/watch?v=JtphZLX8cxs): "אם הייאוש בא לקראתך, אל תתן לו יד, התחבר לנשמתך ולא תהיה לבד"
-
-
- 
 
 איזהו חכם?, הלומד מכל אדם.  
 איזהו גבור?, הכובש את יצרו.  
 איזהו עשיר?, השמח בחלקו.  
 איזהו מכובד?, המכבד את הבריות.  
-
-
   
   ---
   
@@ -127,6 +120,5 @@
   
   [אמני ישראל שרים "תיקון הכללי" | האלבום המלא](https://www.youtube.com/watch?v=AL87MPoKwPM)
   
-  []()
 
   
