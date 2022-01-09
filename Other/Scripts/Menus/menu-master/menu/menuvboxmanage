@@ -1,0 +1,103 @@
+#!/bin/bash
+#Shell菜单演示
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|**********vboxmanage菜单**********|
+----------------------------------------
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)查看所有虚拟机\033[0m"`
+`echo -e "\033[47;30m 2)查看运行中的虚拟机\033[0m"`
+`echo -e "\033[47;30m 3)查看某个虚拟机配置信息\033[0m"`
+`echo -e "\033[47;30m 4)开启某个虚拟机\033[0m"`
+`echo -e "\033[47;30m 5)关闭某个虚拟机\033[0m"`
+`echo -e "\033[47;30m 6)重启某个虚拟机\033[0m"`
+`echo -e "\033[47;30m 7)关闭某个虚拟机并装载ISO\033[0m"`
+`echo -e "\033[47;30m 8)常见帮助信息\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   vboxmanage list vms|awk -F'"' '{print $2}'
+   menu
+   ;;
+ 2)
+   clear
+   vboxmanage list runningvms |awk -F'"' '{print $2}'
+   menu
+   ;;
+ 3)
+   clear
+   echo "list all vms"
+   vboxmanage list vms|awk -F'"' '{print $2}'
+   read -p "vm name:" vm
+   vboxmanage showvminfo $vm
+   menu
+   ;;
+ 4)
+   clear
+   vboxmanage list vms|awk -F'"' '{print $2}'
+   read -p "vm name:" vm
+   vboxmanage startvm $vm --type headless
+   menu
+   ;;
+ 5)
+   clear
+   vboxmanage list runningvms |awk -F'"' '{print $2}'
+   read -p "vm name:" vm
+   vboxmanage controlvm $vm poweroff
+   menu
+   ;;
+ 6)
+   clear
+   vboxmanage list runningvms |awk -F'"' '{print $2}'
+   read -p "vm name:" vm
+   vboxmanage controlvm $vm reset
+   menu
+   ;;
+ 7)
+   clear
+   vboxmanage list vms|awk -F'"' '{print $2}'
+   read -p "vm name:" vm
+   read -p "iso file:" iso
+   vboxmanage controlvm $vm poweroff
+   VBoxManage storageattach $vm --storagectl IDE --port 1 --device 0 --type dvddrive --medium $iso
+   vboxmanage startvm $vm --type headless
+   menu
+   ;;
+ 8)
+   clear
+cat << EOF
+   `echo -e "\033[47;30m 修改虚拟机网卡类型:vboxmanage modifyvm cobbler --nic1 bridged|natnetwork\033[0m"`
+   `echo -e "\033[47;30m 修改桥接到哪个网卡:vboxmanage modifyvm cobbler --bridgeadapter1 enp0s31f6\033[0m"`
+   `echo -e "\033[47;30m 允许VRDE远程桌面:VBoxManage modifyvm Win7P64 --vrde on\033[0m"`
+   `echo -e "\033[47;30m 修改VRDE端口:vboxmanage modifyvm cobbler --vrdeport 8008 --vrdeaddress ""\033[0m"`
+   `echo -e "\033[47;30m 修改虚拟机启动顺序:vboxmanage modifyvm cobbler --boot<1-4> none|floppy|dvd|disk|net\033[0m"`
+   `echo -e "\033[47;30m 虚拟机快照管理:VBoxManage snapshot\033[0m"`
+   `echo -e "\033[47;30m 完全删除一个虚拟机:vboxmanage unregistervm Win7P64 --delete\033[0m"`
+   `echo -e "\033[47;30m 暂停虚拟机:controlvm uuid\|vmname pause\033[0m"`
+   `echo -e "\033[47;30m 继续运行虚拟机:controlvm uuid\|vmname resume\033[0m"`
+   `echo -e "\033[47;30m 改变默认路径:vboxmanage setproperty machinefolder \033[0m"`
+   `echo -e "\033[47;30m 在宿主机中增加共享文件夹:vboxmanage sharedfolder add Win7P64 --name share --hostpath /mnt/other/share\033[0m"`
+   `echo -e "\033[47;30m 在Win客户机中映射共享文件夹:\\VBOXSVR\share\033[0m"`
+EOF
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 0)
+   exit 0
+esac
+done
+}
+menu

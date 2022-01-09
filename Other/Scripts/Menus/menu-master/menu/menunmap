@@ -1,0 +1,102 @@
+#!/bin/bash
+#Shell菜单演示
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|***************Nmap菜单***************|
+----------------------------------------
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)使用默认选项扫描\033[0m"`
+`echo -e "\033[47;30m 2)使用ncat监听一个端口\033[0m"`
+`echo -e "\033[47;30m 3)扫描指定TCP端口\033[0m"`
+`echo -e "\033[47;30m 4)扫描指定UDP端口\033[0m"`
+`echo -e "\033[47;30m 5)TCP SYN Ping扫描\033[0m"`
+`echo -e "\033[47;30m 6)跳过主机发现扫描\033[0m"`
+`echo -e "\033[47;30m 7)未定\033[0m"`
+`echo -e "\033[47;30m 8)手动输入选项扫描\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   read -p "输入主机:" ip
+   nmap $ip
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 2)
+   clear
+   echo "TCP端口直接输入"
+   echo "UDP端口加-u"
+   read -p "输入端口范围:" port
+   read -p "输入IP范围:" ip 
+   ncat -l $port $ip
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 3)
+   clear
+   read -p "输入端口范围:" port
+   read -p "输入IP范围:" ip
+   nmap -p $port $ip
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 4)
+   clear
+   read -p "输入端口范围:" port
+   read -p "输入IP范围:" ip
+   nmap -sU -p $port $ip
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 5)
+   clear
+   read -p "输入IP范围:" ip
+   nmap -sP -PS $ip -disable-arp-ping
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 6)
+   clear
+   read -p "输入IP范围:" ip
+   nmap -Pn $ip
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 7)
+   menu
+   ;;
+ 8)
+   clear
+cat << EOF
+   `echo -e "\033[47;30m -sL|列表扫描\033[0m"`
+   `echo -e "\033[47;30m -Pn|跳过主机发现\033[0m"`
+   `echo -e "\033[47;30m -sU|UDP扫描\033[0m"`
+   `echo -e "\033[47;30m -p |指定端口范围\033[0m"`
+   `echo -e "\033[47;30m -sP|mp和tcp80\033[0m"`
+   `echo -e "\033[47;30m -sS|半开放扫描\033[0m"`
+   `echo -e "\033[47;30m -sT|全开放扫描(3次握手)\033[0m"`
+EOF
+   read -p "输入选项:" option
+   read -p "输入IP:" ip
+   nmap $option $ip
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 0)
+   exit 0
+esac
+done
+}
+menu

@@ -1,0 +1,91 @@
+#!/bin/bash
+#Shell菜单演示
+#变量"configpath"的路径根据实际情况修改
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|***************Docker菜单**************|
+----------------------------------------
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)显示所有容器名字 状态\033[0m"`
+`echo -e "\033[47;30m 2)查看所有镜像\033[0m"`
+`echo -e "\033[47;30m 3)查看容器log\033[0m"`
+`echo -e "\033[47;30m 4)重新启动容器\033[0m"`
+`echo -e "\033[47;30m 5)停止容器\033[0m"`
+`echo -e "\033[47;30m 6)删除容器\033[0m"`
+`echo -e "\033[47;30m 7)删除容器及容器数据\033[0m"`
+`echo -e "\033[47;30m 8)删除镜像\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   docker inspect -f='{{.Name}} {{.State.Status}}' $(docker ps -a -q)
+   menu
+   ;;
+ 2)
+   clear
+   docker images
+   menu
+   ;;
+ 3)
+   clear
+   docker inspect -f='{{.Name}} {{.State.Status}}' $(docker ps -a -q)
+   read -p "复制或输入名称(多个用空格隔开):" container
+   docker logs $container
+   menu
+   ;;
+ 4)
+   clear
+   docker inspect -f='{{.Name}} {{.State.Status}}' $(docker ps -a -q)
+   read -p "复制或输入名称(多个用空格隔开):" container
+   docker restart $container
+   menu
+   ;;
+ 5)
+   clear
+   docker inspect -f='{{.Name}} {{.State.Status}}' $(docker ps -a -q)
+   read -p "复制或输入名称(多个用空格隔开):" container
+   docker stop $container
+   menu
+   ;;
+ 6)
+   clear
+   docker inspect -f='{{.Name}} {{.State.Status}}' $(docker ps -a -q)
+   read -p "复制或输入名称(多个用空格隔开):" container
+   docker stop $container
+   docker rm $container
+   menu
+   ;;
+ 7)
+   clear
+   docker inspect -f='{{.Name}} {{.State.Status}}' $(docker ps -a -q)
+   read -p "复制或输入名称(多个用空格隔开):" container
+   docker stop $container
+   docker rm $container
+   rm -rf /var/local/docker/$container
+   menu
+   ;;
+ 8)
+   clear
+   docker images
+   read -p "复制或输入名称(多个用空格隔开):" image
+   docker image rm $image
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 0)
+  exit 0
+esac
+done
+}
+menu

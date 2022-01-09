@@ -1,0 +1,95 @@
+#!/bin/bash
+#Shell菜单演示
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|**********Firewalld防火墙菜单**********|
+----------------------------------------
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)重新载入防火墙\033[0m"`
+`echo -e "\033[47;30m 2)显示所有zone\033[0m"`
+`echo -e "\033[47;30m 3)显示默认zone\033[0m"`
+`echo -e "\033[47;30m 4)加入trusted一个IP-永久\033[0m"`
+`echo -e "\033[47;30m 5)加入Public一个端口-永久\033[0m"`
+`echo -e "\033[47;30m 6)未定义\033[0m"`
+`echo -e "\033[47;30m 7)查看Firewalld是否在运行\033[0m"`
+`echo -e "\033[47;30m 8)手动输入选项\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   firewall-cmd --reload
+   menu
+   ;;
+ 2)
+   clear
+   firewall-cmd --list-all-zone
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 3)
+   clear
+   firewall-cmd --get-default-zone
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 4)
+   clear
+   read -p "输入IP范围:" ip
+   firewall-cmd --zone=trusted --add-source=$ip --permanent
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 5)
+   clear
+   read -p "输入端口范围(格式:80/tcp):" port
+   firewall-cmd --zone=public --add-port=$port --permanent
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 6)
+   clear
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 7)
+   clear
+   firewall-cmd --state
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 8)
+   clear
+cat << EOF
+   `echo -e "\033[47;30m --get-default-zone|查询默认区域名称\033[0m"`
+   `echo -e "\033[47;30m --zone=区域名称|对指定区域操作\033[0m"`
+   `echo -e "\033[47;30m --set-default-zone=<区域名称>|设置默认的区域，使其永久生效\033[0m"`
+   `echo -e "\033[47;30m --get-services|显示预先定义的服务\033[0m"`
+   `echo -e "\033[47;30m --list-all-zones|显示所有区域信息\033[0m"`
+   `echo -e "\033[47;30m --add-service=<服务名>|放行服务\033[0m"`
+   `echo -e "\033[47;30m --add-port=<端口号/协议>|放行端口\033[0m"`
+   `echo -e "\033[47;30m --reload|重新载入防火墙\033[0m"`
+   `echo -e "\033[47;30m --timeout=5m|定义超时时间\033[0m"`
+EOF
+   read -p "输入firewall-cmd后的全部命令:" option
+   firewall-cmd $option
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 0)
+   exit 0
+esac
+done
+}
+menu

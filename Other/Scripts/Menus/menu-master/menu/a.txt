@@ -1,0 +1,20 @@
+Connecting to host 119119.f3322.net, port 5201
+Reverse mode, remote host 119119.f3322.net is sending
+[  6] local 192.168.88.21 port 44724 connected to 34.97.59.122 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.00   sec  37.1 KBytes  0.04 MBytes/sec                  
+[  6]   1.00-2.00   sec  26.1 KBytes  0.03 MBytes/sec                  
+[  6]   2.00-3.00   sec  26.1 KBytes  0.03 MBytes/sec                  
+[  6]   3.00-4.00   sec  20.6 KBytes  0.02 MBytes/sec                  
+[  6]   4.00-5.00   sec  20.6 KBytes  0.02 MBytes/sec                  
+[  6]   5.00-6.00   sec  6.88 KBytes  0.01 MBytes/sec                  
+[  6]   6.00-7.00   sec  35.8 KBytes  0.03 MBytes/sec                  
+[  6]   7.00-8.00   sec  24.8 KBytes  0.02 MBytes/sec                  
+[  6]   8.00-9.00   sec  44.0 KBytes  0.04 MBytes/sec                  
+[  6]   9.00-10.00  sec  17.9 KBytes  0.02 MBytes/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  6]   0.00-10.00  sec   368 KBytes  0.04 MBytes/sec   36             sender
+[  6]   0.00-10.00  sec   260 KBytes  0.03 MBytes/sec                  receiver
+
+iperf Done.

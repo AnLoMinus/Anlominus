@@ -1,0 +1,102 @@
+#!/bin/bash
+#Shell菜单演示
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|**********iptables防火墙菜单**********|
+----------------------------------------
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)查看当前表所有规则\033[0m"`
+`echo -e "\033[47;30m 2)追加访问本机某端口的地址\033[0m"`
+`echo -e "\033[47;30m 3)保存iptables规则\033[0m"`
+`echo -e "\033[47;30m 4)当前iptables另存为文件\033[0m"`
+`echo -e "\033[47;30m 5)vi 编辑系统iptables文件\033[0m"`
+`echo -e "\033[47;30m 6)备份系统iptables文件到脚本目录\033[0m"`
+`echo -e "\033[47;30m 7)未定义\033[0m"`
+`echo -e "\033[47;30m 8)手动输入选项\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   iptables -nL --line-number
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 2)
+   clear
+   firewall-cmd --list-all-zone
+   read -p "请输入允许的地址（CIDR格式）：" ip
+   read -p "请输入允许的端口：" port
+   iptables -A INPUT -s $ip -p tcp --dport $port -j ACCEPT
+   iptables -A INPUT -d $ip -p tcp --sport $port -j ACCEPT
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 3)
+   clear
+   service iptables save
+   menu
+   ;;
+ 4)
+   clear
+   read -p "请输入将当前规则保存到文件的绝对路径：" file
+   iptables-save > $file
+   menu
+   ;;
+ 5)
+   clear
+   vi /etc/sysconfig/iptables
+   menu
+   ;;
+ 6)
+   clear
+   mkdir -p $basepath/bak
+   cp /etc/sysconfig/iptables $basepath/bak/iptables.$(date "+%Y-%m-%d_%H:%M")
+   read -s -n1 -p "文件备份至以下目录，扩展名为当下日期"
+   echo $basepath/bak
+   menu
+   ;;
+ 7)
+   clear
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 8)
+   clear
+cat << EOF
+   `echo -e "\033[47;30m -A 链|在相应链追加规则\033[0m"`
+   `echo -e "\033[47;30m -I 链 序号|在相应链插入规则\033[0m"`
+   `echo -e "\033[47;30m -nL --line-number|显示当前表规则\033[0m"`
+   `echo -e "\033[47;30m -j LOG --log-prefix "前缀"|记录日志（日志文件：/var/log/messages\033[0m"`
+   `echo -e "\033[47;30m --set-default-zone=<区域名称>|设置默认的区域，使其永久生效\033[0m"`
+   `echo -e "\033[47;30m -P |设置默认策略\033[0m"`
+   `echo -e "\033[47;30m -F |清空规则（默认策略不清除）\033[0m"`
+   `echo -e "\033[47;30m -D 序号|删除某一条规则\033[0m"`
+   `echo -e "\033[47;30m -s |匹配来源地址（加！表示除这个地址以外）\033[0m"`
+   `echo -e "\033[47;30m -d |匹配目标地址（加！表示除这个地址以外）\033[0m"`
+   `echo -e "\033[47;30m -i |匹配流入网卡（加！表示除这个网卡以外）\033[0m"`
+   `echo -e "\033[47;30m -o |匹配流出网卡（加！表示除这个网卡以外）\033[0m"`
+   `echo -e "\033[47;30m -p |匹配协议（如:TCP UDP ICMP\033[0m"`
+   `echo -e "\033[47;30m --dport|匹配目的端口号\033[0m"`
+   `echo -e "\033[47;30m --sport|匹配源端口号\033[0m"`
+EOF
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 0)
+   exit 0
+esac
+done
+}
+menu

@@ -1,0 +1,111 @@
+#!/bin/bash
+#Shell菜单演示
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|***************iproute2菜单***************|
+----------------------------------------
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)显示路由表\033[0m"`
+`echo -e "\033[47;30m 2)显示IP地址\033[0m"`
+`echo -e "\033[47;30m 3)显示链路状态\033[0m"`
+`echo -e "\033[47;30m 4)显示ARP表\033[0m"`
+`echo -e "\033[47;30m 5)显示监控端口及进程\033[0m"`
+`echo -e "\033[47;30m 6)\033[0m"`
+`echo -e "\033[47;30m 7)\033[0m"`
+`echo -e "\033[47;30m 8)\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 21)临时增加静态路由\033[0m"`
+`echo -e "\033[47;30m 22)临时删除静态路由\033[0m"`
+`echo -e "\033[47;30m 23)临时增加IP地址\033[0m"`
+`echo -e "\033[47;30m 24)临时删除IP地址\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   ip route show
+   menu
+   ;;
+ 2)
+   clear
+   ip addr show
+   menu
+   ;;
+ 3)
+   clear
+   ip link show|grep state
+   menu
+   ;;
+ 4)
+   clear
+   ip neigh show
+   menu
+   ;;
+ 5)
+   clear
+   ss -pl
+   menu
+   ;;
+ 6)
+   clear
+ 
+   menu
+   ;;
+ 7)
+   menu
+   ;;
+ 8)
+
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 21)
+   clear
+   ip route show
+   read -p "目的网络:" option1
+   read -p "下一跳:" option2
+   sudo ip route add $option1 via $option2
+   ip route show
+   menu
+   ;;
+ 22)
+   clear
+   ip route show
+   read -p "目的网络:" option1
+   sudo ip route delete $option1
+   ip route show
+   menu
+   ;;
+ 23)
+   clear
+   ip addr show
+   read -p "IP:" option1
+   read -p "接口:" option2
+   sudo ip addr add $option1 dev $option2
+   ip route show
+   menu
+   ;;
+ 24)
+   clear
+   ip addr show
+   read -p "IP:" option1
+   read -p "接口:" option2
+   sudo ip addr del $option1 dev $option2
+   ip route show
+   menu
+   ;;
+ 0)
+   exit 0
+esac
+done
+}
+menu

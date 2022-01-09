@@ -1,0 +1,97 @@
+#!/bin/sh
+#Shell菜单演示
+#变量"configpath"的路径根据实际情况修改
+container=smokeping
+configpath=/var/local/docker/smokeping/config
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|*************smokeping菜单*************|
+----------------------------------------
+`echo -e "\033[47;30m 容器名字和路径如果不对用8项更改\033[0m"`
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)重启smokeping\033[0m"`
+`echo -e "\033[47;30m 2)停止smokeping\033[0m"`
+`echo -e "\033[47;30m 3)显示smokeping日志\033[0m"`
+`echo -e "\033[47;30m 4)备份当前监控主机文件\033[0m"`
+`echo -e "\033[47;30m 5)恢复监控主机文件\033[0m"`
+`echo -e "\033[47;30m 6)增加被监控主机\033[0m"`
+`echo -e "\033[47;30m 7)使用vi编辑配置文件\033[0m"`
+`echo -e "\033[47;30m 8)自定义smokeping的名称和配置目录\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   docker restart $container
+   menu
+   ;;
+ 2)
+   clear
+   docker stop $container
+   menu
+   ;;
+ 3)
+   clear
+   docker logs $container
+   menu
+   ;;
+ 4)
+   cp -f $configpath/Targets $configpath/Targets.$(date "+%Y-%m-%d_%H:%M")
+   clear
+   menu
+   ;;
+ 5)
+   clear
+   ls -l $configpath/Targets*|awk '{print $9}'|awk -F"Targets." '/Targets./{print $2}'
+   read -p "输入要恢复的文件名:" filename
+   cp -f $configpath/Targets.$filename $configpath/Targets
+   echo "修改主机配置文件后需要重启smokeping才能正常显示(有时可能需要重启2次)"
+   menu
+   ;;
+ 6)
+   clear
+   read -p "英文名称：" name1
+   read -p "中文名称：" name2
+   read -p "IP地址：" ip
+cat >> $configpath/Targets << EOF
+
+++ $name1
+menu =$name2
+title = $name2
+host = $ip
+EOF
+echo "修改主机配置文件后需要重启smokeping并多次刷新浏览器才能正常显示"
+menu
+;;
+ 7)
+   vi $configpath/Targets
+   clear
+   menu
+   ;;
+ 8)
+   clear
+   docker inspect -f='{{.Name}} {{.State.Status}}' $(docker ps -a -q)
+   read -p "请输入smokeping容器的名称：" name
+   read -p "请输入smokeping容器的config目录：" configpath
+   sed -i "4s/.*/container=$name/" $basepath/menusmokeping
+   sed -i "5s/.*/configpath=$configpath/" $basepath/menusmokeping 
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 0)
+  exit 0
+esac
+done
+}
+menu

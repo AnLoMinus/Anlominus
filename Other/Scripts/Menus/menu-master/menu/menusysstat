@@ -1,0 +1,92 @@
+#!/bin/bash
+#Shell菜单演示
+basepath=$(cd `dirname $0`; pwd)
+function menu ()
+{
+ cat << EOF
+----------------------------------------
+|**************sysstat菜单**************|
+----------------------------------------
+`echo -e "\033[47;30m 可以在任意选择界面按"Ctrl+c"键退出\033[0m"`
+`echo -e "\033[47;30m 1)CPU报告\033[0m"`
+`echo -e "\033[47;30m 2)启动客户端(默认参数)\033[0m"`
+`echo -e "\033[47;30m 3)启动客户端下载,60秒,MB\033[0m"`
+`echo -e "\033[47;30m 4)启动客户端下载,60秒,MB保存到:~/iperf3.日期文件\033[0m"`
+`echo -e "\033[47;30m 5)未定义\033[0m"`
+`echo -e "\033[47;30m 6)未定义\033[0m"`
+`echo -e "\033[47;30m 7)未定义\033[0m"`
+`echo -e "\033[47;30m 8)客户端手动输入选项\033[0m"`
+`echo -e "\033[47;30m 9)返回主菜单\033[0m"`
+`echo -e "\033[47;30m 0)退出\033[0m"`
+EOF
+read -p "请输入功能对应的数字：" num1
+while [ $num1 != '0' ];do
+case $num1 in
+ 1)
+   clear
+   read -p "几条记录:" option1 
+   read -p "间隔几秒:" option2
+   mpstat $option2 $option1
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 2)
+   clear
+   read -p "输入服务端IP:" ip 
+   iperf3 -c $ip
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 3)
+   clear
+   read -p "输入服务端IP:" ip 
+   iperf3 -c $ip -R -t 60 -f MB
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 4)
+   clear
+   read -p "输入服务端IP:" ip 
+   iperf3 -c $ip -R -t 60 -f MB --logfile ~/iperf3.$(date "+%Y-%m-%d_%H:%M")
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 5)
+   clear
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 6)
+   clear
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 7)
+   menu
+   ;;
+ 8)
+   clear
+cat << EOF
+   `echo -e "\033[47;30m -c|服务端IP\033[0m"`
+   `echo -e "\033[47;30m -t|传输时间\033[0m"`
+   `echo -e "\033[47;30m -R|客户端下载\033[0m"`
+   `echo -e "\033[47;30m --logfile|保存至文件\033[0m"`
+   `echo -e "\033[47;30m \033[0m"`
+   `echo -e "\033[47;30m \033[0m"`
+EOF
+   read -p "输入iperf3后的所有参数:" option
+   iperf3 $option
+   read -s -n1 -p "按任意键继续 ... "
+   menu
+   ;;
+ 9)
+   clear
+   bash $basepath/menu
+   exit 0
+   ;;
+ 0)
+   exit 0
+esac
+done
+}
+menu
