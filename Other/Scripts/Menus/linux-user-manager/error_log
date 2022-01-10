@@ -1,2 +1,0 @@
-menu.sh: line 94: syntax error near unexpected token `newline'
-menu.sh: line 94: `  case $menuitem in menu'
