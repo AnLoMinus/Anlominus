@@ -16,7 +16,6 @@
 
 <h6 align="center">
 
- ![image](https://user-images.githubusercontent.com/51442719/146652629-aa1fac68-89d0-4656-a204-13e6c10a7574.png)
 
 ⫷ [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [PenTest](https://github.com/Anlominus/PenTest) - [WorKing](https://github.com/Anlominus/WorKing) - [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) ⫸
 
