@@ -7,19 +7,27 @@
 #    |_| |_|\__,_|\___|_|\_\_|_| |_|\__, |    #
 #                                   |___/     #
 ###############################################
-#
-# Aouther: Anlominus 2022
+# Created: 10/01/2022
+# Aouther: Global Anlominus RhytMix 2022
+# Skils: Best Copyrigter IN the COSMOS!
+# BIG THANX TO ALL COMUNITY THAT SHARE ALL THAT FREE GREAT SCRIPTS
+# CREDIT: ToAllWorldCreatorsHackingTools
 # Location: Made With Love IN Israel
 # Tool Name: HacKing
 # Source: https://github.com/Anlominus/HacKing
 #
-# Features:
-#   1. Anonymity: Tools for Anonymity and Privacy..
-#   2. Information Gathering: Gathering information about Systems, Locally/Remotley ..
-#   3. Vulnerability Analysis: Tools for Analysis services and Applications..
-#   4. installer kits: Many other kits for installing Tools..
-#
-#
+# Main Menu:
+#  [1] AnonSurf: Anonymity surfing
+#  [2] WebHack: Web Analysis
+#  [3] VulnHack: Vulnerability Analysis
+#  [4] WireLess: Wireless Analysis
+#  [5] InfoGath: Information Gathering
+#  [6] Forensics: Forensics Analysis
+#  [7] FramXploit: Exploit Frameworks
+#  [8] RAT: RemoteAccess
+#  [9] HasHack: Hashing & Enctyprt Decrypt
+#  [10] PayLoads: Payloads and more
+#  [11] XInstKits: Installer Kits
 #
 #
 #     Algorithen:
@@ -76,7 +84,7 @@ echo -e "$purple
     ......'',,;;;:::cccllllooooooooooooollll:'.....
     .....'.'',,;;::ccloodxxxdddddddooooollll,.'....
     .......',,;;::clloddxkkkkxxxdddoooollllc,......
-    .'''''',,;;::cclooooooxOkkkkkOxoooollllc,.......
+    .'''''',,;;::cclooooDATOS0000Oxoooollllc,.......
    ..'''',',;;::ccclllooodk0xdddddxdoollllcc,'''''...
   ........';;::ccclllooodddxkkkkkkxdollllcc:'.........
  ......  .':::ccllloooodddxxxddddoddolllcc::'..  ......
@@ -112,18 +120,64 @@ n3="3"
 n4="4"
 n5="5"
 n6="6"
-nb="|b1|b2|"
+n7="7"
+n8="8"
+n9="9"
+n10="10"
+n11="11"
+n12="12"
 
 ################
 #    VMenu     #
 ################
-m1="$red[$green$n1$red]$nc$white Anonymity $nc"
-m2="$red[$green$n2$red]$nc$white Information Gathering $nc"
-m3="$red[$green$n3$red]$nc$white Vulnerability Analysis $nc"
-m4="$red[$green$n4$red]$nc$white Web Application Analysis $nc"
-m5="$red[$green$n5$red]$nc$white Installer Kits $nc"
-mb="$red[$green$nb$red]$nc$white Print Banner $nc"
+m1="$red[$green$n1$red]$nc$white AnonSurf:$cafe Anonymity surfing $nc"
+m2="$red[$green$n2$red]$nc$white WebHack:$cafe Web Analysis $nc"
+m3="$red[$green$n3$red]$nc$white VulnHack:$cafe Vulnerability Analysis $nc"
+m4="$red[$green$n4$red]$nc$white WireLess:$cafe Wireless Analysis $nc"
+m5="$red[$green$n5$red]$nc$white InfoGath:$cafe Information Gathering $nc"
+m6="$red[$green$n6$red]$nc$white Forensics:$cafe Forensics Analysis $nc"
+m7="$red[$green$n7$red]$nc$white FramXploit:$cafe Exploit Frameworks $nc"
+m8="$red[$green$n8$red]$nc$white RAT:$cafe RemoteAccess $nc"
+m9="$red[$green$n9$red]$nc$white HasHack:$cafe Hashing & Enctyprt Decrypt $nc"
+m10="$red[$green$n10$red]$nc$white PayLoads:$cafe Payloads and more $nc"
+m11="$red[$green$n11$red]$nc$white XInstKits:$cafe Installer Kits $nc"
 m00="$red[$green$n00$red]$nc$white Exit $nc"
+##################
+#    VMenu_1     #
+##################
+m1_1="$red[$green$n1$red]$nc$white AnonSurf $nc"
+m1_0="$red[$green$n00$red]$nc$white Exit $nc"
+##################
+#    VMenu_2     #
+##################
+m2_1="$red[$green$n1$red]$nc$white Devices Information $nc"
+m2_2="$red[$green$n2$red]$nc$white Th3inspector $nc"
+m2_3="$red[$green$n3$red]$nc$white Mercury $nc"
+m2_4="$red[$green$n4$red]$nc$white 000000 $nc"
+m2_0="$red[$green$n00$red]$nc$white Exit $nc"
+##################
+#    VMenu_3     #
+##################
+m3_1="$red[$green$n1$red]$nc$white HacKing $nc"
+m3_2="$red[$green$n2$red]$nc$white Lazymux $nc"
+m3_3="$red[$green$n3$red]$nc$white Tool-X $nc"
+m3_0="$red[$green$n00$red]$nc$white Exit $nc"
+##################
+#    VMenu_4     #
+##################
+m4_1="$red[$green$n1$red]$nc$white HacKing $nc"
+m4_2="$red[$green$n2$red]$nc$white Lazymux $nc"
+m4_3="$red[$green$n3$red]$nc$white Tool-X $nc"
+m4_0="$red[$green$n00$red]$nc$white Exit $nc"
+##################
+#    VMenu_5     #
+##################
+m5_1="$red[$green$n1$red]$nc$white HacKing $nc"
+m5_2="$red[$green$n2$red]$nc$white Lazymux $nc"
+m5_3="$red[$green$n3$red]$nc$white Tool-X $nc"
+m5_4="$red[$green$n4$red]$nc$white DarkArmy $nc"
+m5_5="$red[$green$n5$red]$nc$white Fsociety $nc"
+m5_0="$red[$green$n00$red]$nc$white Exit $nc"
 ##################
 #    VMenu_1     #
 ##################
@@ -177,6 +231,15 @@ function Menu() {
         $m3
         $m4
         $m5
+        $m6
+        $m7
+        $m8
+        $m9
+        $m10
+        $m11
+        $m12
+        $m13
+        $m14
 \n    $m00
 "
   while :
@@ -213,6 +276,51 @@ function Menu() {
     echo -e "$m5"
     Menu_5
   		;;
+  	6)
+    echo "$(clear)"
+    echo -e "$m6"
+    Menu_6
+    ;;
+  	7)
+    echo "$(clear)"
+    echo -e "$m7"
+    Menu_7
+  		;;
+  	8)
+    echo "$(clear)"
+    echo -e "$m8"
+    Menu_8
+  		;;
+  	9)
+    echo "$(clear)"
+    echo -e "$m9"
+    Menu_9
+  		;;
+  	10)
+    echo "$(clear)"
+    echo -e "$m10"
+    Menu_10
+  		;;
+  	11)
+    echo "$(clear)"
+    echo -e "$m11"
+    Menu_11
+  		;;
+  	12)
+    echo "$(clear)"
+    echo -e "$m12"
+    Menu_12
+  		;;
+  	13)
+    echo "$(clear)"
+    echo -e "$m13"
+    Menu_13
+  		;;
+  	14)
+    echo "$(clear)"
+    echo -e "$m14"
+    Menu_14
+  		;;
   	b1)
     echo "$(clear)"
     echo -e "$mb"
@@ -227,8 +335,6 @@ function Menu() {
     echo "$(clear)"
   	exit
     ;;
-
-
 ###############
 #    Misc     #
 ###############
@@ -264,6 +370,7 @@ function Menu() {
   done
 
 }
+
 ################
 #    FMenu_1   #
 ################
@@ -387,6 +494,7 @@ function Menu_2(){
   done
 
 }
+
 ##################
 #    FMenu_3     #
 ##################
@@ -434,6 +542,7 @@ function Menu_3(){
   done
 
 }
+
 ##################
 #    FMenu_4     #
 ##################
