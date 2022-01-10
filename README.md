@@ -17,7 +17,7 @@
 <h6 align="center">
 
 
-⫷ [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [PenTest](https://github.com/Anlominus/PenTest) - [WorKing](https://github.com/Anlominus/WorKing) - [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) ⫸
+⫷ [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) ⫸
 
 <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" />
 
