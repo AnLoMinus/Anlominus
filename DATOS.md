@@ -120,6 +120,8 @@
   [התיקון הכללי המלא | בניגון מיוחד & תפילה מכתבי רבנו הקדוש זיע"א](https://www.youtube.com/watch?v=c9vGfZrSk_0)
   
   [אמני ישראל שרים "תיקון הכללי" | האלבום המלא](https://www.youtube.com/watch?v=AL87MPoKwPM)
-  
+
+[ספר חפץ חיים
+](https://he.wikisource.org/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D)
 
   
