@@ -1,0 +1,52 @@
+#!/bin/sh
+#!/bin/bash
+#!/usr/bin/bash
+#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/bash
+###############################################
+#     _   _            _  ___                 #
+#    | | | | __ _  ___| |/ (_)_ __   __ _     #
+#    | |_| |/ _' |/ __| ' /| | '_ \ / _' |    #
+#    |  _  | (_| | (__| . \| | | | | (_| |    #
+#    |_| |_|\__,_|\___|_|\_\_|_| |_|\__, |    #
+#                                   |___/     #
+###############################################
+# Name : Anlominus
+# Description : HacKingPro is a hacking tools installer and package manager for hacker's.
+# Creating DATE : 2022 January
+# Last UPDATE : 2022 January 30
+# Aouther: Anlominus RhytMix 2022
+# Skils: Best Copyrigter IN the COSMOS!
+# BIG THANX TO ALL COMUNITY THAT SHARE ALL THAT FREE GREAT SCRIPTS
+# CREDIT: ToAllWorldCreatorsHackingTools
+# Location: Made With Love IN ISRAEL !
+# Source: https://github.com/Anlominus/Anlominus
+###############################################
+#Anlominus
+alias cc="clear" # clear Termial
+alias hcp="history -c"
+alias xxxx='exit'
+
+# cd Shortcuts
+alias ..='cd ..'
+alias ...='cd ../../../'
+alias ....='cd ../../../../'
+alias .....='cd ../../../../'
+
+# grep Shortcuts
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+
+# List directory contents
+alias l='ls -a'
+alias lc='ls -CF'
+alias la='ls -AF'       # Compact view, show hidden
+alias ll='ls -al'
+alias l1='ls -1'
+alias lf='ls -F'
+alias llf='ls -alF'
+alias la='ls -A'
+alias ls='ls --color=auto'
+alias llt='ls -ltrh'
+alias lahs='ls -lahs'

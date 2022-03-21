@@ -1,0 +1,335 @@
+#!/bin/sh
+#!/bin/bash
+#!/usr/bin/bash
+#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/bash
+###############################################
+#     _   _            _  ___                 #
+#    | | | | __ _  ___| |/ (_)_ __   __ _     #
+#    | |_| |/ _' |/ __| ' /| | '_ \ / _' |    #
+#    |  _  | (_| | (__| . \| | | | | (_| |    #
+#    |_| |_|\__,_|\___|_|\_\_|_| |_|\__, |    #
+#                                   |___/     #
+###############################################
+# Name : Anlominus
+# Description : HacKingPro is a hacking tools installer and package manager for hacker's.
+# New Date : 2022 January
+# Aouther: Anlominus RhytMix 2022
+# Skils: Best Copyrigter IN the COSMOS!
+# BIG THANX TO ALL COMUNITY THAT SHARE ALL THAT FREE GREAT SCRIPTS
+# CREDIT: ToAllWorldCreatorsHackingTools
+# Location: Made With Love IN ISRAEL !
+# Source: https://github.com/Anlominus/Anlominus
+###############################################
+##################################
+#-----------) Colors (-----------#
+##################################
+# |
+nc="\033[00m"
+white="\033[1;37m"
+grey="\033[0;37m"
+purple="\033[0;35m"
+red="\033[31m"
+green="\033[32m"
+yellow="\033[33m"
+purple="\033[0;35m"
+cyan="\033[0;36m"
+cafe="\033[0;33m"
+fiuscha="\033[0;35m"
+blue="\033[34m"
+orange="\033[38;5;202m"
+# |
+###################################
+#-----------) Letters (-----------#
+###################################
+# |
+nr="R"
+ni="I"
+nt="T"
+nx="X"
+nq="Q"
+na="A"
+nb="ab"
+n00="00"
+n1="1"
+n2="2"
+n3="3"
+n4="4"
+n5="5"
+n6="6"
+n8="8"
+n7="7"
+n9="9"
+n10="10"
+n11="11"
+n12="12"
+n13="13"
+n14="14"
+n15="15"
+n16="16"
+n17="17"
+n18="18"
+# |
+##########################
+#    SymbolVariables     #
+##########################
+# |
+cBack="$red[$cyan Back $red]$grey"
+uSage="$red[$cyan USAGE $red]$grey("
+installingDir="$red[$grey Installing Dir $red]$cyan"
+# |
+##########################
+#    SymbolVariables     #
+##########################
+# 💪  🏴 ‍ ☠️ 👁‍ 👌 💀 📌 👍
+# ♥️ ✯ 🔞 🗨 👩‍ 💻 😜 😡
+# 💥 ☣ ✍ █ ▓ ░ ▒ 💿 🎧 📸
+# 👤 🛠️ 📚 🌐 🐧 ❗ ✳️ 🛡️ 🎭 🖧
+# ⚡ 🚶
+cEye="$green 👁 $cyan"
+cWall="$purple[$purple░$purple]$cyan"
+cDock="$purple[$green📌$purple]$cyan"
+cPassKey="$purple[$green🔐$purple]$cyan"
+cAnlominus="$purple[$green👽$purple]$cyan"
+cAlien="$purple[$green🙏$purple]$cyan"
+cGlasses="$purple[$green👓$purple]$yellow"
+cLock="$red[$yellow🔒$red]$grey"
+cInvalid="$red[$yellow🚫$red]$red"
+cKey="$red[$yellow🔑$red]$yellow"
+cLink="$red[$orange🔗$red]$orange"
+cSharp="$red[$yellow#$red]$blue"
+cInfo="$red[$yellow!$red]$orange"
+cPlus="$red[$green+$red]$white"
+cDone="$red[$green✔$red]$green"
+cFalse="$yellow[$red✘$yellow]$red"
+cDanger="$yellow ⚠️ $red"
+##########################
+#    CommandVariables     #
+##########################
+# |
+currentDir="${blue}Dir$orange $(pwd)"
+SysInfo="${blue}SysInfo$orange $(uname)"
+##########################
+#    NumberVariables     #
+##########################
+# |
+cr="$orange[$green$nr$orange]$grey"
+ci="$orange[$green$ni$orange]$grey"
+ct="$orange[$green$nt$orange]$grey"
+cx="$orange[$green$nx$orange]$grey"
+cq="$orange[$green$nq$orange]$grey"
+ca="$orange[$green$na$orange]$grey"
+cb="$orange[$green$nb$orange]$grey"
+c1="$orange[$green$n1$orange]$cafe"
+c2="$orange[$green$n2$orange]$cafe"
+c3="$orange[$green$n3$orange]$cafe"
+c4="$orange[$green$n4$orange]$cafe"
+c5="$orange[$green$n5$orange]$cafe"
+c6="$orange[$green$n6$orange]$cafe"
+c7="$orange[$green$n7$orange]$cafe"
+c8="$orange[$green$n8$orange]$cafe"
+c9="$orange[$green$n9$orange]$cafe"
+c10="$orange[$green$n10$orange]$cafe"
+c11="$orange[$green$n11$orange]$cafe"
+c12="$orange[$green$n12$orange]$cafe"
+c13="$orange[$green$n13$orange]$cafe"
+c14="$orange[$green$n14$orange]$cafe"
+c15="$orange[$green$n15$orange]$cafe"
+c16="$orange[$green$n16$orange]$cafe"
+c17="$orange[$green$n17$orange]$cafe"
+c18="$orange[$green$n18$orange]$cafe"
+##################################
+#-----------) Banner (-----------#
+##################################
+# |
+BannerMan(){
+  echo "$purple
+                          .
+                      ..',,'..
+                    .',,,,,,,,,.
+                   .',,,'..',,,,'.
+                  .',,'.     .,,,'
+                 .',,.        .,,,.
+                .',..           .,,.
+                .'.              ..,.
+                .                  .'
+               ..   $green  Aภl๏miภuຮ $purple   .
+               ..                   .
+               ..                  ...
+        ....''''.   $blue HacKingPro$purple    .','''....
+      .',,,,,,,,'..               ..',,,,,,,,'.
+     ...'',,,,,,,'...          ....',,,,,,,,'...
+    ....'',;;;;;;;,,'''......'''',,;;;;;;;,'''...
+   ......'',,;;;:::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/:'.
+   .....'.'',,;;::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/'....
+   .......',,;;::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/,......
+   .'''''',,;;::/xxxxxxxxxx${cyan}DAT0S${purple}xxxxxxxxxxxx/,.......
+  ..'''',',;;::/xxxxxxxxx${blue}ANL0M1NUS${purple}xxxxxxxxx/,'''''...
+ ........';;::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/:'.........
+......  .':::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/::'..  ......
+......:.;:::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/::;'c,':......
+ .''..cc.''''''',,,,,,,;;;;;,,,,,,,,''''....:.cc..''.
+  \t ${orange}  ┌──[${blue}Anlominus${purple}@${red}HacKingPro${cyan}$~${orange}]
+  \t ${orange}  └──╼ ${cyan} sh HacKingPro
+  "
+}
+# |
+# Banner(){
+#   echo "  $cSharp https://www.github.com/Anlominus $cSharp\n"
+# }
+# |
+Banner(){
+  echo "
+  $cWall░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░$cWall
+  $cWall░     _   _            _  ___                 ░$cWall
+  $cWall░    | | | | __ _  ___| |/ (_)_ __   __ _     ░$cWall
+  $cWall░    | |_| |/ _' |/ __| ' /| | '_ \ / _' |    ░$cWall
+  $cWall░    |  _  | (_| | (__| . \| | | | | (_| |    ░$cWall
+  $cWall░    |_| |_|\__,_|\___|_|\_\_|_| |_|\__, |    ░$cWall
+  $cWall░                                   |___/     ░$cWall
+  $cWall▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒$cWall
+  $cWall▒         ▀▀█▀▀ █▀▀█ █▀▀█ █   █▀▀             ▒$cWall
+  $cWall▒           █   █  █ █  █ █   ▀▀█             ▒$cWall
+  $cWall▒           ▀   ▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀$orange v1.5        ${cyan}▒$cWall
+  $cWall▒ https://www.github.com/Anlominus/HacKingPro ▒$cWall
+  $cWall▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒$cWall"
+}
+Exiting(){
+  echo "
+  $cWall░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░$cWall
+  $cWall░                                             ░$cWall
+  $cWall░  ╔═══════════════════════════════════════╗  ░$cWall
+  $cWall░  ╠═>$cDanger Exiting Anlominus Tools...$cDanger${cyan} <==║  ░$cWall
+  $cWall░  ╚═══════════════════════════════════════╝  ░$cWall
+  $cWall░                                             ░$cWall
+  $cWall░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░$cWall"
+}
+SourceCodeURL(){
+  echo "\t  $cLink https://www.github.com/Anlominus/HacKingPro $cLink\n"
+}
+PromptFun(){
+  echo "  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  echo "  $cWall▓                                             ▓$cWall"
+  echo "  ${cWall}▓${orange}  ┌──[${blue}Anlominus${purple}👽${red}HacKingPro${cyan}$~${orange}]               ${cyan}▓$cWall"
+  echo -n "  ${cWall}▓${orange}  └──╼ ${green} "
+}
+ReadSomthing(){
+  echo "
+$cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+$cWall▓                                             ▓$cWall
+$cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+$cWall▓  ╠═>   Press ENTER for back to Menu   <==║  ▓$cWall
+$cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+$cWall▓                                             ▓$cWall
+$cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  echo -n ""
+  read read_somthing
+}
+# Basic info
+HOSTNAME=`uname -n`
+SLASH=" / "
+
+## RAM Information
+MEMORY_TOTAL=`free -t -m | grep "Mem" | awk '{print $2" MB";}'`
+SWAP_USE=$(free -m | tail -n 1 | awk '{print $3}')
+SWAP_TOTAL=$(free -m | tail -n 1 | awk '{print $4}')
+
+## Disk Information
+# For root
+    ROOT_USE=$(df -Ph / | grep /dev | awk '{print $3}')$SLASH
+    ROOT_TOTAL=$(df -Ph / | grep /dev | awk '{print $2}')
+
+# For / share if exist
+if [ -d "/wikijs" ];then
+    SHARE_USE=$(df -Ph /wikijs | grep /dev | awk '{print $3}')$SLASH
+    SHARE_TOTAL=$(df -Ph /wikijs | grep /dev | awk '{print $2}')
+else
+    SHARE_USE=$(echo "/share not found")
+fi
+
+### Different variable for Centos/Debian/Ubuntu
+
+if [ -f "/etc/redhat-release" ];then
+    # For CentOS
+
+    #Memory information
+    MEMORY_USE=`free -t -m | grep Total | awk '{print $3" MB";}'`
+    SYSTEM=$(cat /etc/redhat-release)
+    IP=$(ip addr show eth0 | grep -Po 'inet \K[\d.]+')
+elif [ -f "/etc/issue" ];then
+    # For Debian
+    #Memory information
+    MEMORY_USE=`free -t -m | grep  buffers/cache: | awk '{print $3" MB";}'`
+    SYSTEM=$(cat /etc/issue)
+    if [ -e /etc/ifconfig ]; then
+      #statements
+      IP=$(ifconfig eth0 | grep "inet ad" | cut -f2 -d: | awk '{print $1}')
+      echo "ShalomOlam"
+      sleep 1
+    fi
+    echo "ifconfig not exist"
+
+elif [ -f "/etc/lsb-release" ];then
+    # For Ubuntu
+
+    #Memory information
+    MEMORY_USE=`free -t -m | grep  buffers/cache: | awk '{print $3" MB";}'`
+    SYSTEM=$(cat /etc/lsb-release)
+else
+    #For Another
+    SYSTEM=$(echo 'Not Detected')
+fi
+
+## LOAD Informations
+#LOAD 1 Minute
+LOAD1=`cat /proc/loadavg | awk {'print $1'}`
+#LOAD 5 Minutes
+LOAD2=`cat /proc/loadavg | awk {'print $2'}`
+#LOAD 15 Minutes
+LOAD3=`cat /proc/loadavg | awk {'print $3'}`
+
+## CPU Informations
+CPU_PERCENT=$(vmstat 1 2|tail -1 | awk '{print $13}')
+CPU_CORE=$(cat /proc/cpuinfo | grep -i "^processor" | wc -l)
+
+## Check SSH Service
+SSH_STATUS=`systemctl is-active sshd`
+
+#### Check Services
+
+## Check SNMP Service
+SNMP_STATUS=`systemctl is-active snmpd`
+
+## Check FTP Service
+FTP_STATUS=`systemctl is-active vsftpd`
+
+## Check SAMBA Service
+SAMBA_STATUS=`systemctl is-active smbd`
+
+## Check NTP Service
+NTP_STATUS=`systemctl is-active chronyd`
+NTP_SYNC_TEMP=$(timedatectl |grep 'NTP synchronized:')
+# NTP_SYNC=${NTP_SYNC_TEMP:18}
+
+echo "
+${orange}===============================================================
+${cInfo} Hostname....................: $HOSTNAME
+${cInfo} System......................: $SYSTEM
+${cInfo} /Share......................: $SHARE_USE$SHARE_TOTAL
+${cInfo} /...........................: $ROOT_USE$ROOT_TO  TAL
+${cInfo} IP..........................: $IP
+===============================================================
+${cInfo} CPU usage...................: $CPU_PERCENT %
+${cInfo} CPU Cores...................: $CPU_CORE
+${cInfo} Load........................: $LOAD1 - $LOAD2 - $LOAD3
+${cInfo} Memory used.................: $MEMORY_USE / $MEMORY_TOTAL
+${cInfo} Swap in use.................: $SWAP_USE MB / $SWAP_TOTAL MB
+===============================================================
+${cInfo} SSH.........................: $SSH_STATUS
+${cInfo} Samba.......................: $SAMBA_STATUS
+${cInfo} Chronyd (NTP)...............: $NTP_STATUS
+     ${cInfo} NTP Synchronized.......: $NTP_SYNC
+${cInfo} SNMP........................: $SNMP_STATUS
+${cInfo} FTP.........................: $FTP_STATUS
+===============================================================
+"

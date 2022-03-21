@@ -1,0 +1,659 @@
+#!/bin/sh
+#!/bin/bash
+#!/usr/bin/bash
+#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/bash
+###############################################
+#     _   _            _  ___                 #
+#    | | | | __ _  ___| |/ (_)_ __   __ _     #
+#    | |_| |/ _' |/ __| ' /| | '_ \ / _' |    #
+#    |  _  | (_| | (__| . \| | | | | (_| |    #
+#    |_| |_|\__,_|\___|_|\_\_|_| |_|\__, |    #
+#                                   |___/     #
+###############################################
+# Name : AnlominusVariables
+# Description : HacKingPro is a hacking tools installer and package manager for hacker's.
+# New Date : 2022 January
+# Aouther: Anlominus RhytMix 2022
+# Skils: Best Copyrigter IN the COSMOS!
+# BIG THANX TO ALL COMUNITY THAT SHARE ALL THAT FREE GREAT SCRIPTS
+# CREDIT: ToAllWorldCreatorsHackingTools
+# Location: Made With Love IN ISRAEL !
+# Source: https://github.com/Anlominus/Anlominus
+###############################################
+# |
+espeak -p8 -ven -s150 -k20 "Hello you are using Anonymous Linux Administrator Script."
+
+##################################
+#-----------) Colors (-----------#
+##################################
+# |
+nc="\033[00m"
+white="\033[1;37m"
+grey="\033[0;37m"
+purple="\033[0;35m"
+red="\033[31m"
+green="\033[32m"
+yellow="\033[33m"
+purple="\033[0;35m"
+cyan="\033[0;36m"
+cafe="\033[0;33m"
+fiuscha="\033[0;35m"
+blue="\033[34m"
+orange="\033[38;5;202m"
+# |
+RED="$(printf '\033[31m')"
+GREEN="$(printf '\033[32m')"
+ORANGE="$(printf '\033[33m')"
+BLUE="$(printf '\033[34m')"
+MAGENTA="$(printf '\033[35m')"
+CYAN="$(printf '\033[36m')"
+WHITE="$(printf '\033[37m')"
+BLACK="$(printf '\033[30m')"
+REDBG="$(printf '\033[41m')"
+GREENBG="$(printf '\033[42m')"
+ORANGEBG="$(printf '\033[43m')"
+BLUEBG="$(printf '\033[44m')"
+MAGENTABG="$(printf '\033[45m')"
+CYANBG="$(printf '\033[46m')"
+WHITEBG="$(printf '\033[47m')"
+BLACKBG="$(printf '\033[40m')"
+RESETBG="$(printf '\e[0m')"
+BLINK="$(printf '\033[5;31m')"
+# |
+###################################
+#-----------) Letters (-----------#
+###################################
+# |
+nr="R"
+ni="I"
+nt="T"
+nx="X"
+nq="Q"
+na="A"
+nb="ab"
+n00="00"
+n1="1"
+n2="2"
+n3="3"
+n4="4"
+n5="5"
+n6="6"
+n8="8"
+n7="7"
+n9="9"
+n10="10"
+n11="11"
+n12="12"
+n13="13"
+n14="14"
+n15="15"
+n16="16"
+n17="17"
+n18="18"
+# |
+##########################
+#    Words Variables     #
+##########################
+# |
+cNotFound="$red[${orange}Not Found${red}]$grey"
+cFound="$red[${orange}Found${red}]$grey"
+cBack="$red[${cyan}Back${red}]$grey"
+uSage="$red[${cyan}USAGE${red}]$grey"
+installingDir="$red[${grey}Installing Dir${red}]$cyan"
+# |
+#############################
+#    Symbolls Variables     #
+#############################
+# 💪 ☠️ 🚶
+# 🗨 👩‍ 💻 😜 😡
+# 💥 ✍ █ ▓ ░ ▒ 💿 🎧 📸
+# 👤 ️📚 🌐 ❗ ✳️ 🛡️ 🎭
+cEye="$green 👁 $cyan"
+cStar="$orange[$red✯$orange]$cyan"
+cWell="$orange[$red👌$orange]$cyan"
+cPin="$orange[$red📌$orange]$cyan"
+cNetworks="$orange[$red🖧$orange]$cyan"
+cWorld="$orange[$red🌐$orange]$cyan"
+cToxic="$orange[$red☣$orange]$cyan"
+cHeart="$orange[$red♥️$orange]$cyan"
+cTools="$orange[$red🛠$orange]$cyan"
+cLike="$orange[$red👍$orange]$cyan"
+cElectric="$orange[$red⚡$orange]$cyan"
+cSkull="$orange[$red💀$orange]$cyan"
+cFlag="$orange[$red🏴$orange]$cyan"
+c18Plus="$orange[$red🔞$orange]$cyan"
+cWall="$purple[$purple░$purple]$cyan"
+cDock="$purple[$green📌$purple]$cyan"
+cPassKey="$purple[$green🔐$purple]$cyan"
+cAnlominus="$purple[$green👽$purple]$cyan"
+cAlien="$purple[$green🙏$purple]$cyan"
+cGlasses="$purple[$green👓$purple]$yellow"
+cLock="$red[$yellow🔒$red]$grey"
+cInvalid="$red[$yellow🚫$red]$red"
+cKey="$red[$yellow🔑$red]$yellow"
+cLink="$red[$orange🔗$red]$orange"
+cSharp="$red[$yellow#$red]$blue"
+cInfo="$red[$yellow!$red]$blue"
+cPlus="$red[$green+$red]$white"
+cDone="$red[$green✔$red]$green"
+cFalse="$yellow[$red✘$yellow]$red"
+cDanger="$yellow ⚠️ $red"
+# |
+#############################
+#    Commands Variables     #
+###############$$############
+# |
+currentDir="${blue}Dir$orange $(pwd)"
+SysInfo="${blue}SysInfo$orange $(uname)"
+# |
+############################
+#    Numbers Variables     #
+############################
+# |
+cr="$orange[$green$nr$orange]$grey"
+ci="$orange[$green$ni$orange]$grey"
+ct="$orange[$green$nt$orange]$grey"
+cx="$orange[$green$nx$orange]$grey"
+cq="$orange[$green$nq$orange]$grey"
+ca="$orange[$green$na$orange]$grey"
+cb="$orange[$green$nb$orange]$grey"
+c1="$orange[$green$n1$orange]$cafe"
+c2="$orange[$green$n2$orange]$cafe"
+c3="$orange[$green$n3$orange]$cafe"
+c4="$orange[$green$n4$orange]$cafe"
+c5="$orange[$green$n5$orange]$cafe"
+c6="$orange[$green$n6$orange]$cafe"
+c7="$orange[$green$n7$orange]$cafe"
+c8="$orange[$green$n8$orange]$cafe"
+c9="$orange[$green$n9$orange]$cafe"
+c10="$orange[$green$n10$orange]$cafe"
+c11="$orange[$green$n11$orange]$cafe"
+c12="$orange[$green$n12$orange]$cafe"
+c13="$orange[$green$n13$orange]$cafe"
+c14="$orange[$green$n14$orange]$cafe"
+c15="$orange[$green$n15$orange]$cafe"
+c16="$orange[$green$n16$orange]$cafe"
+c17="$orange[$green$n17$orange]$cafe"
+c18="$orange[$green$n18$orange]$cafe"
+# |
+#####################################
+#-----------) Functions (-----------#
+#####################################
+# |
+Banner(){
+  echo "
+  $cWall░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░$cWall
+  $cWall░     _   _            _  ___                 ░$cWall
+  $cWall░    | | | | __ _  ___| |/ (_)_ __   __ _     ░$cWall
+  $cWall░    | |_| |/ _' |/ __| ' /| | '_ \ / _' |    ░$cWall
+  $cWall░    |  _  | (_| | (__| . \| | | | | (_| |    ░$cWall
+  $cWall░    |_| |_|\__,_|\___|_|\_\_|_| |_|\__, |    ░$cWall
+  $cWall░                                   |___/     ░$cWall
+  $cWall▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒$cWall
+  $cWall▒         ▀▀█▀▀ █▀▀█ █▀▀█ █   █▀▀             ▒$cWall
+  $cWall▒           █   █  █ █  █ █   ▀▀█             ▒$cWall
+  $cWall▒           ▀   ▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀$orange v1.6        ${cyan}▒$cWall
+  $cWall▒ https://www.github.com/Anlominus/HacKingPro ▒$cWall
+  $cWall▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒$cWall"
+}
+Exiting(){
+  echo "
+  $cWall░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░$cWall
+  $cWall░                                             ░$cWall
+  $cWall░  ╔═══════════════════════════════════════╗  ░$cWall
+  $cWall░  ╠═>$cDanger Exiting Anlominus Tools...$cDanger${cyan} <==║  ░$cWall
+  $cWall░  ╚═══════════════════════════════════════╝  ░$cWall
+  $cWall░                                             ░$cWall
+  $cWall░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░$cWall"
+}
+AnonymousSpeech(){
+  echo "\033[44m"   #blue bg
+  echo """$RED
+    ._____. ._____. ._____________________________________________________________________. ._____. ._____.
+    | ._. | | ._. | | ._________________________________________________________________. | | ._. | | ._. |
+    | !_| |_|_|_! | | !_________________________________________________________________! | | !_| |_|_|_! |
+    !___| |_______! !_____________________________________________________________________! !___| |_______!
+    .___|_|_| |_________________________________________________________________________________|_|_| |___.
+    | ._____| |_____________________________________________________________________________________| |_. |
+    | !_! | | |                                                                                 | | ! !_! |
+    !_____! | |                                                                                 | | !_____!
+    ._____. | |                               %@@@@@@@@@@@@@@@@@(                               | | ._____.
+    | ._. | | |                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                        | | | ._. |
+    | | | | | |                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                    | | | | | |
+    | | | | | |                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                | | | | | |
+    | | | | | |             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,             | | | | | |
+    | | | | | |           @@@@@@@@@@@@@@@@@@@@@@&%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@           | | | | | |
+    | | | | | |         @@@@@@@   @@@@@@@@&%%@@%%@@@%@@%@@%@@@%%@@%%@@@@@@@@@   @@@@@@@         | | | | | |
+    | | | | | |       &@@@  @   @@@@@@@%%@@@@%@@@@@%@@@%@@@%@@@@%%@@@%%%@@@@@@@   @  @@@        | | | | | |
+    | | | | | |      @@@@  @  @ @@@@%%@@@@@%%%%%%@%@@@@%@@@@%@%%%%%%@@@@@%%@@@  @  @  @@@@      | | | | | |
+    | | | | | |     @@ @  @@   @@@%%@@@@@@%@@@@@@%%@@  %@  @%@@@@@@@%@@@@@@%%@@@   @@  @ @@     | | | | | |
+    | | | | | |    @@  @ @  @ @@@%@@@@@@@%@@@@@@@%@@@@@%  @@@%@@@@@@@%@@@@@@@%@@@%@    @  @@    | | | | | |
+    | | | | | |   @@@  @ @@  @@@%@%%%%@@%@@@@@@@@%@@@@@ @@@@@%@@@@@@@%%@@%%%&@%@@@  @  @  @@@   | | | | | |
+    | | | | | |   @@@  @#   @@@%@@@@@@@@%@@@&%%%%%%%%%   %%%%%%%%%&@@@%@@@@@@@@%@@@   @@  @@@   | | | | | |
+    | | | | | |  @@ @     @@@@%@@@@@@@@%@@@@@@@@%@@@@@@%@@@@@%%@@@@@@@%%@@@@@@@@%@@ @  @  @ @@  | | | | | |
+    | | | | | |  @@  @  @@ @@@%@@@@@@@@%@@@@@@@@%@@@@,   # @@@%@@@@@@@@%@@@@@@@@%@@@ @@  @  @@  | | | | | |
+    | | | | | |  @@   @@   @@@%%%%%%%%%%%%%%%%%%%  *@@  @@@   %%%%%%%%%%%%%%%%%%%@@@   @@   @@  | | | | | |
+    | | | | | |  @@@   /  @@@@%@@@@@@@@%@          @@@@ @@@@          @%@@@@@@@@%@@@@  @   @@@  | | | | | |
+    | | | | | |  @@*@    @@ @@%@@@@@@@@%           @@@   @@@          %&@@@@@@@@%@@ @@ @  @ @@  | | | | | |
+    | | | | | |   @  @@  @  @@@%@@@@@@@@            @@   @@            @@@@@@@@%@@@  @  @@  @   | | | | | |
+    | | | | | |   @@    @@  %.@@%@%%%%@@             @   @             @@%%%%@%@@    @@    @@   | | | | | |
+    | | | | | |    @@@   ,   @ @@%@@@@@                                 @@@@@%@# @       @@@    | | | | | |
+    | | | | | |     @@ @@    @   @%%@@@                                 @@@%@@  (@ ,  @@ @@     | | | | | |
+    | | | | | |      @@   @@@ @   ,@%%@                                 @%@@*   @ @@@   @@      | | | | | |
+    | | | | | |        @@      @   @  @                                 @  @   @     %@@        | | | | | |
+    | | | | | |         @@@@@       @                                     @ /     @@@@@         | | | | | |
+    | | | | | |           @@@    %@@@@@@                               @@@@@@(    @@@           | | | | | |
+    | | | | | |             .@@@@/       &@@@                     @@@(       %@@@@              | | | | | |
+    | !_! | | |                @@@,                                         @@@/                | | ! !_! |
+    !_____! | |                    @@@@@@@@@(                     @@@@@@@@@@                    | | !_____!
+    ._____. | |                        /@@@@                       @@@@                         | | ._____.
+    | ._. | | |                                                                                 | | | ._. |
+    | !_| |_|_|_________________________________________________________________________________| |_|_|_! |
+    !___| |_____________________________________________________________________________________| |_______!
+    .___|_|_| |___. ._____________________________________________________________________. .___|_|_| |___.
+    | ._____| |_. | | ._________________________________________________________________. | | ._____| |_. |
+    | !_! | | !_! | | !_________________________________________________________________! | | !_! | | !_! |
+    !_____! !_____! !_____________________________________________________________________! !_____! !_____!
+
+  $RESETBG"""
+  echo "_________________________________________________________________________________________________________"
+  echo ""
+  echo "$REDBG                                               ${GREEN}Anonymous                                                 $RESETBG"
+  echo "_________________________________________________________________________________________________________"
+  #Loop for message
+  while true
+  do
+  echo "_________________________________________________________________________________________________________"
+  echo ""
+  echo "$REDBG                                               ANONYMOUS                                                 $RESETBG"
+  echo "_________________________________________________________________________________________________________"
+      #espeak is for sound with message and pv is for printing the text in words on screen
+      espeak -p8 -ven -s150 -k20 "Hello we are Anonymous."
+      espeak -p8 -ven -s150 -k20 "Do not mess with us!"
+      espeak -p8 -ven -s150 -k20 "but let me firstly tell you who is. our god father."
+      espeak -p8 -ven -s150 -k20 "we do not tell their name."
+      espeak -p8 -ven -s150 -k20 "openly but we tell to our enymies."
+      espeak -p8 -ven -s150 -k20 "our god father is. mister $1."
+      espeak -p8 -ven -s150 -k20 "we are warning you."
+      espeak -p8 -ven -s150 -k20 "otherwise expect us."
+      espeak -p8 -ven -s150 -k20 "fuck you."
+      sleep 1s
+  done
+
+}
+BannerMan(){
+  echo "$purple
+                          .
+                      ..',,'..
+                    .',,,,,,,,,.
+                   .',,,'..',,,,'.
+                  .',,'.     .,,,'
+                 .',,.        .,,,.
+                .',..           .,,.
+                .'.              ..,.
+                .                  .'
+               ..   $green  Aภl๏miภuຮ $purple   .
+               ..                   .
+               ..                  ...
+        ....''''.   $blue HacKingPro$purple    .','''....
+      .',,,,,,,,'..               ..',,,,,,,,'.
+     ...'',,,,,,,'...          ....',,,,,,,,'...
+    ....'',;;;;;;;,,'''......'''',,;;;;;;;,'''...
+   ......'',,;;;:::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/:'.
+   .....'.'',,;;::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/'....
+   .......',,;;::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/,......
+   .'''''',,;;::/xxxxxxxxxx${cyan}DAT0S${purple}xxxxxxxxxxxx/,.......
+  ..'''',',;;::/xxxxxxxxx${blue}ANL0M1NUS${purple}xxxxxxxxx/,'''''...
+ ........';;::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/:'.........
+......  .':::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/::'..  ......
+......:.;:::/xxxxxxxxxxxxxxxxxxxxxxxxxxx/::;'c,':......
+ .''..cc.''''''',,,,,,,;;;;;,,,,,,,,''''....:.cc..''.
+  \t ${orange}  ┌──[${blue}Anlominus${purple}@${red}HacKingPro${cyan}$~${orange}]
+  \t ${orange}  └──╼ ${cyan} sh HacKingPro
+  "
+}
+PromptFun(){
+  echo "  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  echo "  $cWall▓                                             ▓$cWall"
+  echo "  ${cWall}▓${orange}  ┌──[${blue}Anlominus${purple}👽${red}HacKingPro${cyan}$~${orange}]               ${cyan}▓$cWall"
+  echo -n "  ${cWall}▓${orange}  └──╼ ${green} "
+}
+SourceCodeURL(){
+  echo "\t  $cLink https://www.github.com/Anlominus/HacKingPro $cLink\n"
+}
+ReadSomthing(){
+  echo "
+$cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+$cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+$cWall▓  ╠═>   Press ENTER for back to Menu   <==║  ▓$cWall
+$cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+$cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  echo -n ""
+  read r3ad_S0mth1ng
+}
+PrintStarting(){
+  echo "
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+  $cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+  $cWall▓  ╠═>       Press ENTER to start       <==║  ▓$cWall
+  $cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  read r3ad_S0mth1ng
+}
+PrintBackMenu(){
+  echo "
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+  $cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+  $cWall▓  ╠═>   Press ENTER for back to Menu   <==║  ▓$cWall
+  $cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  read r3ad_S0mth1ng
+}
+PrintFoundService(){
+  echo "
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+  $cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+  $cWall▓  ╠═>   ${cDone} Found Service: ${srv}${cyan}      <==║  ▓$cWall
+  $cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  read r3ad_S0mth1ng
+}
+PrintCantFoundService(){
+  echo "
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+  $cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+  $cWall▓  ╠═>   ${cFalse} Cant Found Service: ${srv}${cyan}       <==║  ▓$cWall
+  $cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  # read r3ad_S0mth1ng
+}
+# |
+####################################
+#-----------) iptables (-----------#
+####################################
+# |
+AnlominusIpTables(){
+  #Persistent IPv4 iptables firewall script
+  LOOPBACK="127.0.0.0/8"
+  NIC_DATA="eth0"
+  NIC_MGMT="eth0"
+  SERVER_IP_DATA=$(hostname -I | awk '{print $1}')
+  SERVER_IP_MGMT=$(hostname -I | awk '{print $1}')
+  LOCAL_NETWORK="192.168.1.1/24"
+  DNS1="1.1.1.1"
+  DNS2="8.8.8.8"
+  LOOPBACK="127.0.0.0/8"
+  echo "\n\t  ${cDone} Current ip6tables Rules  ${cDone}\n${orange}"
+  ip6tables -n -L
+  sleep 0.2
+  echo "\n\t  ${cDone} Current iptables Rules  ${cDone}\n${orange}"
+  iptables -n -L
+  echo " "
+  sleep 0.2
+  #Reset all IPv4 iptables rules
+  echo "\n\t  ${cDone} Reset all IPv4 iptables rules  ${cDone}\n${orange}"
+  sleep 0.2
+  iptables -F
+  iptables -X
+  #Disallowing any IPv4 traffic as deny any any
+  echo "\n\t  ${cDone} Disallowing any IPv4 traffic as deny any any  ${cDone}\n${orange}"
+  sleep 0.2
+  iptables -P INPUT DROP
+  iptables -P FORWARD DROP
+  iptables -P OUTPUT DROP
+  #Allow loopback connections but block remote packets claming to be from the loopback interface
+  echo "\n\t  ${cDone} Allow loopback connections but block remote packets claming to be from the loopback interface  ${cDone}\n${orange}"
+  sleep 0.2
+  iptables -A INPUT -i lo -j ACCEPT
+  iptables -A OUTPUT -o lo -j ACCEPT
+  iptables -A INPUT -s $LOOPBACK ! -i lo -j DROP
+  #Drop invalid packets
+  iptables -A INPUT -m conntrack --ctstate INVALID -j DROP
+  #Persistent IPv6 iptables firewall script
+  #Reset all IPv6 iptables rules
+  echo "\n\t  ${cDone} Reset all IPv6 iptables rules  ${cDone}\n${orange}"
+  sleep 0.2
+  ip6tables -F
+  ip6tables -X
+  #Disallowing any IPv6 traffic as deny any any
+  echo "\n\t  ${cDone} Disallowing any IPv6 traffic as deny any any  ${cDone}\n${orange}"
+  sleep 0.2
+  ip6tables -P INPUT DROP
+  ip6tables -P FORWARD DROP
+  ip6tables -P OUTPUT DROP
+  ip6tables -A INPUT -s ::1/128 ! -i lo -j DROP
+  echo "\n\t  ${cDone} Setting ip6tables Rules Successfully  ${cDone}\n${orange}"
+  sleep 0.2
+  ip6tables -n -L
+  echo "\n\t  ${cDone} Setting iptables Rules Successfully  ${cDone}\n${orange}"
+  sleep 0.2
+  iptables -n -L
+  echo " "
+  prin
+}
+AnlominusCheckIfIfacExists(){
+    if [ -e "/sys/class/net/" ]; then
+      echo "[!] Found Interfaces on '/sys/class/net/'."
+      ls -1 /sys/class/net/
+    else
+      echo "[!] enp0s10 Doesn't Exists."
+      exit 19
+    fi
+}
+AnlominuSetIptables(){
+    IFACE_OPT=""
+    echo -n "[!] Set iptables rules on all interfaces? [y/n]: "
+    read question
+    case $question in
+        y|Y)
+            ;;
+        n|N)
+            echo -n "[*] Specify the interface: "
+            read IFACE_OPT
+            check_if_iface_exists $IFACE_OPT
+	    IFACE_OPT="-i "$IFACE_OPT
+            ;;
+        *)
+            echo "[!] Select a valid option."
+            exit 1
+            ;;
+    esac
+    echo "[*] Disabling reverse path filtering."
+    iptables -t raw -A PREROUTING -m rpfilter --invert -j DROP
+    echo "[*] Creating TCP chain."
+    iptables -N TCP
+    echo "[*] Creating UDP chain."
+    iptables -N UDP
+    echo "[*] Allow all incomming RELATED, ESTABLISHED traffic"
+    iptables -A INPUT $IFACE_OPT -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
+    echo "[*] Allow all traffic from localhost"
+    iptables -A INPUT -i lo -j ACCEPT
+    echo "[*] Ignoring invalid packets"
+    iptables -A INPUT $IFACE_OPT -m conntrack --ctstate INVALID -j DROP
+    echo "[*] Allowing 'ICMP echo request' packets"
+    iptables -A INPUT $IFACE_OPT -p icmp -m icmp --icmp-type 8 -m conntrack --ctstate NEW -j ACCEPT
+    iptables -A INPUT $IFACE_OPT -p icmp -m icmp --icmp-type 8 -m conntrack --ctstate NEW -j LOG --log-prefix "[INCOMING ICMP] " --log-level 6 --log-ip-options
+    echo "[*] Allow new incomming UDP traffic"
+    iptables -A INPUT $IFACE_OPT -p udp -m conntrack --ctstate NEW -j UDP
+    echo "[*] Allow new incomming TCP traffic"
+    iptables -A INPUT $IFACE_OPT -p tcp -m tcp --tcp-flags FIN,SYN,RST,ACK SYN -m conntrack --ctstate NEW -j TCP
+    echo "[*] 'Rejecting' TCP-PORTSCAN traffic"
+    iptables -A INPUT $IFACE_OPT -p tcp -m recent --set --name TCP-PORTSCAN --mask 255.255.255.255 --rsource -j REJECT --reject-with tcp-reset
+    echo "[*] 'Rejecting' UDP-PORTSCAN traffic"
+    iptables -A INPUT $IFACE_OPT -p udp -m recent --set --name UDP-PORTSCAN --mask 255.255.255.255 --rsource -j REJECT --reject-with icmp-port-unreachable
+    echo "[*] 'Rejecting' recent TCP traffic (Port scan)"
+    iptables -A TCP $IFACE_OPT -p tcp -m recent --update --seconds 60 --name TCP-PORTSCAN --mask 255.255.255.255 --rsource -j REJECT --reject-with tcp-reset
+    echo "[*] Allowing outgoing traffic to 22,53,80,443 TCP ports"
+    iptables -A TCP $IFACE_OPT -p tcp --dport 22 -j ACCEPT
+    iptables -A TCP $IFACE_OPT -p tcp -m multiport --dports 53,80,443 -j ACCEPT
+    echo "[*] 'Rejecting' recent UDP traffic (Port scan)"
+    iptables -A UDP $IFACE_OPT -p udp -m recent --update --seconds 60 --name UDP-PORTSCAN --mask 255.255.255.255 --rsource -j REJECT --reject-with icmp-port-unreachable
+    echo "[*] Allowing outgoing traffic to 53 UDP ports"
+    iptables -A UDP $IFACE_OPT -p udp -m udp --dport 53 -j ACCEPT
+    echo "[*] 'Rejecting' all unrelated traffic"
+    iptables -A INPUT $IFACE_OPT -j REJECT --reject-with icmp-proto-unreachable
+    echo "[*] Setting default DROP policy on FORWARD traffic"
+    iptables -P FORWARD DROP
+    echo "[*] Setting default DROP policy on INPUT traffic"
+    iptables -P INPUT DROP
+    echo "[*] Saving rules"
+    iptables-save > /etc/iptables/iptables.rules
+    echo "[*] Activating/Enabling iptables service"
+    systemctl start iptables.service
+    systemctl enable iptables.service
+    set_ip6tables_fw "$IFACE_OPT"
+}
+AnlominuSetIp6tables(){
+  echo "[*] Setting ipv6 tables rules"
+  echo "[*] Creating TCP chain."
+  ip6tables -N TCP
+  echo "[*] Creating UDP chain."
+  ip6tables -N UDP
+  echo "[*] Allow all incomming RELATED, ESTABLISHED traffic"
+  ip6tables -A INPUT $1 -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
+  echo "[*] Allow all traffic from localhost"
+  ip6tables -A INPUT -i lo -j ACCEPT
+  echo "[*] Allow ICMPv6 'Neighbor Discovery'"
+  ip6tables -A INPUT $1 -s fe80::/10 -p ipv6-icmp -j ACCEPT
+  echo "[*] Allowing 'ICMP echo request' packets"
+  ip6tables -A INPUT $1 -p ipv6-icmp --icmpv6-type 128 -m conntrack --ctstate NEW -j LOG --log-prefix "[INCOMING ICMP] " --log-level 6 --log-ip-options
+  ip6tables -A INPUT $1 -p ipv6-icmp --icmpv6-type 128 -m conntrack --ctstate NEW -j ACCEPT
+  echo "[*] Ignoring invalid packets"
+  ip6tables -A INPUT $1 -m conntrack --ctstate INVALID -j DROP
+  echo "[*] Allow new incomming UDP traffic"
+  ip6tables -A INPUT $1 -p udp -m conntrack --ctstate NEW -j UDP
+  echo "[*] Allow new incomming TCP traffic"
+  ip6tables -A INPUT $1 -p tcp -m tcp --tcp-flags FIN,SYN,RST,ACK SYN -m conntrack --ctstate NEW -j TCP
+  echo "[*] 'Rejecting' TCP-PORTSCAN traffic"
+  ip6tables -A INPUT $1 -p tcp -m recent --set --name TCP-PORTSCAN --rsource -j REJECT --reject-with tcp-reset
+  echo "[*] 'Rejecting' UDP-PORTSCAN traffic"
+  ip6tables -A INPUT $1 -p udp -m recent --set --name UDP-PORTSCAN --rsource -j REJECT --reject-with icmp6-port-unreachable
+  echo "[*] 'Rejecting' all unrelated traffic"
+  ip6tables -A INPUT $1 -j REJECT --reject-with icmp6-port-unreachable
+  echo "[*] 'Rejecting' recent TCP traffic (Port scan)"
+  ip6tables -A TCP $1 -p tcp -m recent --update --seconds 60 --name TCP-PORTSCAN --rsource -j REJECT --reject-with tcp-reset
+  echo "[*] Allowing outgoing traffic to 22,53,80,443 TCP ports"
+  ip6tables -A TCP $IFACE_OPT -p tcp --dport 22 -j ACCEPT
+  ip6tables -A TCP $1 -p tcp -m multiport --dports 53,80,443 -j ACCEPT
+  echo "[*] 'Rejecting' recent UDP traffic (Port scan)"
+  ip6tables -A UDP $1 -p udp -m recent --update --seconds 60 --name UDP-PORTSCAN --rsource -j REJECT --reject-with icmp6-port-unreachable
+  echo "[*] Allowing outgoing traffic to 53 UDP ports"
+  ip6tables -A UDP $1 -p udp -m udp --dport 53 -j ACCEPT
+  echo "[*] Setting default DROP policy on FORWARD traffic"
+  ip6tables -P FORWARD DROP
+  echo "[*] Setting default DROP policy on INPUT traffic"
+  ip6tables -P INPUT DROP
+  echo "[*] Saving rules"
+  ip6tables-save > /etc/iptables/ip6tables.rules
+  echo "[*] Activating/Enabling iptables service"
+  systemctl start ip6tables.service
+  systemctl enable ip6tables.service
+}
+# |
+####################################
+#-----------) Services (-----------#
+####################################
+# |
+AnlominusETC(){
+  # exporting /etc/ files to `eXp0rtF1l3`
+  ls -1 /etc/ >> ./eXp0rtF1l3
+  PrintStarting
+  etcServices=" "
+  ls -1 /etc/ 2> ${etcServices}
+  PrintBackMenu
+}
+AnonymousSpeaker(){
+espeak -p8 -ven -s124 -k20 "Hello and Welcome to Anlominus Scripts."
+}
+AnlominusInfoCPU(){
+if [ -e /proc/cpuinfo ]; then
+  #statements
+  echo "
+$cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+$cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+$cWall▓  ╠═>       ${cFound}${cyan} '/proc/cpuinfo'    <==║  ▓$cWall
+$cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+$cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+  ReadSomthing
+  cat /proc/cpuinfo
+else
+  lscpu
+fi
+
+if [ -e /bin/ifconfig ]; then
+  #statements
+  echo "${cDone}${green} 'ifconfig' Found on the system"
+fi
+
+}
+AnlominusCheckSystem(){
+# lists all installed kernels
+echo "
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall
+  $cWall▓  ╔═══════════════════════════════════════╗  ▓$cWall
+  $cWall▓  ╠═> ${cInfo}${green} lists all installed kernels ${srv}${cyan} <==║  ▓$cWall
+  $cWall▓  ╚═══════════════════════════════════════╝  ▓$cWall
+  $cWall▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓$cWall"
+echo
+dpkg -l 'linux-*' | \
+sed '/^ii/!d;/'"$(uname -r | sed "s/\(.*\)-\([^0-9]\+\)/\1/")"'/d;s/^[^ ]* [^ ]* \([^ ]*\).*/\1/;/[0-9]/!d'
+echo
+}
+AnlominusCheckIfExist(){
+  r3adSomth1ng=" "
+  clear
+  Banner
+  if [ -e /bin/ifconfig ]; then
+    #statements
+    PrintFoundService
+    echo "  ${cDone}${green} Found 'ifconfig' on the system"
+  fi
+  PrintCantFoundService
+  echo "  ${cFalse}${orange} Not found 'ifconfig' on the system" &> $r3adSomth1ng
+
+  if [ `command -v ip` ]; then
+    #statements
+    PrintFoundService
+    echo "  ${cDone}${green} Found 'ip' on the system"
+    command -v ip
+  else
+    PrintCantFoundService
+    echo "  ${cFalse}${orange} Not found 'ip' on the system" &2> $r3adSomth1ng
+    echo "  $r3adSomth1ng"
+  fi
+}
+AnlominusListEnabledSystemdUnits(){
+  # List enabled systemd units
+  systemctl | grep running | awk '{ print $1 }' | sort
+}
+AnlominusFindAllSetUidBinaries(){
+  # find all setuid binaries
+  find / \( -perm -4000 -o -perm -2000 \) -type f -exec ls -la {} \;
+}
+AnlominusFindAllSetGidBinaries(){
+  # find all setgid binaries
+  find / -xdev \( -perm -2000 \) -type f -print0 2>&- | xargs -0 ls -l
+}
+AnlominusFindAllFilesFolders(){
+  # searches for files/folders with o+w permission bit
+  find / -xdev \( -perm o+w \) -type f -print0 2>&- | xargs -0 ls -l
+}
+# |
+####################################
+#-----------) Commands (-----------#
+####################################
+# |
+AnlominusCommandHistoryCount(){
+  history | sed -e 's/ *[0-9][0-9]* *//' | sort | uniq -c | sort -rn | head -25
+}
+# |
+#########################################
+#-----------) RUN FUNCTIONS (-----------#
+#########################################
+# |
+ALMBar(){
+  echo "${orange} ──[${blue}Anlominus${purple}@${red}HacKingPro${cyan}$~${orange}]──"
+}
+# |
+AnlominusIpTables
