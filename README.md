@@ -15,8 +15,12 @@
 <h5 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h5>
 
 <h6 align="center">
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlominus&langs_count=8&theme=react" />
+</p>
 
-<img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anlominus&theme=dark" alt="Anlominus" /><br>
+ <br>
 
 ⫷ [Stars](https://github.com/Anlominus?tab=stars) - [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [Music](https://github.com/Anlominus/Music) ⫸
 
@@ -68,16 +72,26 @@
 ---
  
 <p align="center"><a href="https://github.com/Anlominus">
-
-
-
-
-<p align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /> 
- 
  <br>
+ 
+ 
+<div align="center">
+<br>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlominus&layout=compact&theme=react&hide_border=true" />
-  
-</p>
+<br>
+
+<a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anlominus&theme=black-ice" alt="thespeedx" />
+</a>
+
+<a href="https://github.com/Anlominus">
+  <img align="center" alt="Anlominus's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&count_private=true&theme=react&bg_color=151515" />
+</a>
+
+<br/>
+<br>
+<a href="https://github.com/TheSpeedX">
+  <img alt="TheSpeedX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anlominus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+  </div>
