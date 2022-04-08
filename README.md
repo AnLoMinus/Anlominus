@@ -14,6 +14,7 @@
 
 <h5 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h5>
 
+
 <h6 align="center">
  <p align="center" dir="auto">
   <a href="https://www.gnu.org/software/bash/" rel="nofollow">
@@ -24,6 +25,9 @@
   </a>
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.w3.org/html/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
