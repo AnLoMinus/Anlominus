@@ -1,15 +1,9 @@
 # Vocabulary for future projects
 
----
 
-### HacKing
-- HacKing 
-- HacKingPro 
-- HackPro
-- HackElite
-- EliteHack
-- RedHack
-- BlueHack
+|HacKing|
+|---|
+|  <li>[HacKing]() <br><li> [HacKingPro]() []() <br><li> [HackPro]() <br><li> [HackElite]() <br><li> [RedHack]() <br><li> [BlueHack]() <br> | 
 
 ---
 
