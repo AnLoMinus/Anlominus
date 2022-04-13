@@ -79,7 +79,7 @@
  <h5>
 
 <a href="https://docs.microsoft.com/en-us/users/anlominus/">Microsoft Learn</a> ~ 
-<a href="https://www.markdownguide.org/tools/">Markdown Guide Markdown Guide</a>
+<a href="https://www.markdownguide.org/tools/">Markdown Guide Markdown Guide</a> ~ 
 <a href="https://www.sololearn.com/profile/14430086">SoloLearn Profile</a>
   
   
