@@ -129,4 +129,11 @@
 <a href="https://github.com/Anlominus">
   <img alt="Anlominus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anlominus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-  </div>
+<p align="center"> 
+ <a href="https://github.com/Anlominus/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anlominus&theme=dracula" alt="Anlominus" />
+ </a> 
+ </p>
+
+
+ </div>
