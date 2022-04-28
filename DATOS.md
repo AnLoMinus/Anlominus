@@ -9,7 +9,7 @@
     <tr>
       <td>
 	      
-<a id="link1" href="i/tr/t0101.htm" style="color: rgb(253, 194, 4); font-weight: bold; font-size: 11px;">בראשית</a>       
+<a id="link1" href="https://kodesh.snunit.k12.il/i/tr/t0101.htm">בראשית</a>       
 <a id="link2" href="https://kodesh.snunit.k12.il/i/tr/t0201.htm">שמות</a> <br>
 <a id="link3" href="https://kodesh.snunit.k12.il/i/tr/t0301.htm">ויקרא</a> <br>
 <a id="link4" href="https://kodesh.snunit.k12.il/i/tr/t0401.htm">במדבר</a> <br>
