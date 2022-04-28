@@ -5,6 +5,18 @@
   
   מקורות - Sources
   
+  <tbody>
+    <tr>
+      <td>
+	      
+<a id="link1" href="i/tr/t0101.htm" style="color: rgb(253, 194, 4); font-weight: bold; font-size: 11px;">בראשית</a>       
+<a id="link2" href="https://kodesh.snunit.k12.il/i/tr/t0201.htm">שמות</a> <br>
+<a id="link3" href="https://kodesh.snunit.k12.il/i/tr/t0301.htm">ויקרא</a> <br>
+<a id="link4" href="https://kodesh.snunit.k12.il/i/tr/t0401.htm">במדבר</a> <br>
+<a id="link5" href="https://kodesh.snunit.k12.il/i/tr/t0501.htm">דברים</a> <br>
+    </tr>
+  </tbody>
+</table>
   
 תפילת הודיה לבורא עולם
   
@@ -131,10 +143,8 @@
 
 חפץ חיים - פתיחה להלכות
 =======================
-
-  
-
-[<<](/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D_-_%D7%94%D7%A7%D7%93%D7%9E%D7%94 "חפץ חיים - הקדמה") · [חפץ חיים -](/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D_- "חפץ חיים -") · פתיחה להלכות · [\>>](/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D_-_%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%9C%D7%A9%D7%95%D7%9F_%D7%94%D7%A8%D7%A2 "חפץ חיים - הלכות לשון הרע")
+ 
+חפץ חיים - הלכות לשון הרע
 
 *   [1 לאוין](#לאוין)
     *   [1.1 לאוין - א](#לאוין%20-%20א)
