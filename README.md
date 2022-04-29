@@ -123,18 +123,17 @@
   <img align="center" alt="Anlominus's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&count_private=true&theme=react&bg_color=151515" />
 </a>
-
-<br/>
 <br>
-<a href="https://github.com/Anlominus">
-  <img alt="Anlominus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anlominus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<br>
 <p align="center"> 
  <a href="https://github.com/Anlominus/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Anlominus&theme=dracula" alt="Anlominus" />
  </a> 
  </p>
-
+<br>
+<br>
+<a href="https://github.com/Anlominus">
+  <img alt="Anlominus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anlominus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 ## Working Experience with:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
