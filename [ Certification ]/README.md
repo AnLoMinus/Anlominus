@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔝 Topics I love, work on, and develop ! 😊 
+# 🔝 Topics I ❤️ 💕 💝, work on, and develop ! 😊 🤩 💫 🌟 ⭐️  
 
 </div>
   
