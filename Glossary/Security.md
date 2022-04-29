@@ -1,3 +1,7 @@
+# Glossary of Security Terms
+- Become your company’s cyber security thesaurus.  
+- Find the definition of the most commonly used cyber security terms in our glossary below.
+
 <div data-v-783deeec="" data-v-c6fc3d1a="">
   <div class="ffw-navigation-anchor"><span id="a-b" data-v-ed5e7c6e=""></span></div>
   <div class="ffw-table">
