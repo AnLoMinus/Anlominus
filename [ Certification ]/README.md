@@ -1,6 +1,34 @@
 # Certificates in topics I love, work on, and develop!
 
 - [Development]()
+  - [Android Development]()
+  - [Python]()
+  - [JavaScript]()
+  - [Java]()
+  - [Unity]()
+  - [Web Development]()
+  - [WordPress]()
+  - [PHP]()
+  - [C#]()
+  - [React(516) Machine Learning]()
+  - [iOS Development]()
+  - [Data Science]()
+  - [SQL]()
+  - [CSS]()
+  - [Laravel]()
+  - [HTML]()
+  - [Google Flutter]()
+  - [Angular]()
+  - [Node.Js]()
+  - [C++]()
+  - [Swift]()
+  - [Programming Fundamentals]()
+  - [HTML5]()
+  - [MySQL]()
+
+  
+
+
 - [Business]()
 - [Finance & Accounting]()
 - [IT & Software]()
