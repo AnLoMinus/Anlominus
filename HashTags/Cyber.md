@@ -72,3 +72,36 @@
 #DDoS
 - An acronym that stands for distributed denial of service – a form of cyber attack. 
 - This attack aims to make a service such as a website unusable by “flooding” it with malicious traffic or data from multiple sources (often botnets).
+
+#Encryption
+- The process of encoding data to prevent theft by ensuring the data can only be accessed with a key.
+
+#BYOD (Bring Your Own Device)
+- Refers to a company security policy that allows for employees’ personal devices to be used in business. 
+- A BYOD policy sets limitations and restrictions on whether or not a personal phone or laptop can be connected over the corporate network.
+
+#Pen-testing
+- Short for “penetration testing,” this practice is a means of evaluating security using hacker tools and techniques with the aim of discovering vulnerabilities and evaluating security flaws.
+
+#Social Engineering
+- A technique used to manipulate and deceive people to gain sensitive and private information. 
+- Scams based on social engineering are built around how people think and act. 
+- So, once a hacker understands what motivates a person’s actions, they can usually retrieve exactly what they’re looking for – like financial data and passwords.
+
+#Clickjacking
+- A hacking attack that tricks victims into clicking on an unintended link or button, usually disguised as a harmless element.
+
+#Deepfake
+- An audio or video clip that has been edited and manipulated to seem real or believable. 
+- The most dangerous consequence of the popularity of deepfakes is that they can easily convince people into believing a certain story or theory that may result in user-behavior with a bigger impact as in political or financial.
+
+#White / #Black / and more Hats ..
+ - When speaking in cyber security terms, the differences in hacker “hats” refers to the intention of the hacker. For example:
+
+#White hat: Breaches the network to gain sensitive information with the owner’s consent – making it completely legal. 
+  - This method is usually employed to test infrastructure vulnerabilities.
+
+#Black hat: Hackers that break into the network to steal information that will be used to harm the owner or the users without consent. 
+  - It’s entirely illegal. We’ve only covered the tip of the iceberg as far as cyber security terms, but this will get you started. 
+  - Take the steps now to ensure that you and your business are protected – knowledge is power! 
+  - Check back with Cybint for any follow-up tips and advice by signing up for our mailing list below.
