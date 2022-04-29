@@ -50,6 +50,16 @@
   ---
 
 - [Design]()
+  - [Web Design]()
+  - [Graphic Design & Illustration]()
+  - [Design Tools]()
+  - [User Experience Design]()
+  - [Game Design]()
+  - [3D & Animation]()
+  - [Fashion Design]()
+  - [Architectural Design]()
+  - [Interior Design]()
+  - [Other Design]()
 
   ---
 
