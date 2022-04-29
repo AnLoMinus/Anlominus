@@ -1,5 +1,9 @@
-Topics I love, work on, and develop!
+<div align="center">
 
+# 🔝 Topics I love, work on, and develop ! 😊 
+
+</div>
+  
 # [Development]()
   - [Android Development]()
   - [Python]()
