@@ -1,6 +1,6 @@
 Topics I love, work on, and develop!
 
-- [Development]()
+# [Development]()
   - [Android Development]()
   - [Python]()
   - [JavaScript]()
@@ -29,15 +29,15 @@ Topics I love, work on, and develop!
 
   ---
 
-- [Business]()
+# [Business]()
 
   ---
 
-- [Finance & Accounting]()
+# [Finance & Accounting]()
 
   ---
 
-- [IT & Software]()
+# [IT & Software]()
   - [IT Certifications]()
   - [Network & Security]()
   - [Hardware]()
@@ -47,15 +47,15 @@ Topics I love, work on, and develop!
 
   ---
 
-- [Office Productivity]()
+# [Office Productivity]()
 
   ---
 
-- [Personal Development]()
+# [Personal Development]()
 
   ---
 
-- [Design]()
+# [Design]()
   - [Web Design]()
   - [Graphic Design & Illustration]()
   - [Design Tools]()
@@ -69,15 +69,15 @@ Topics I love, work on, and develop!
 
   ---
 
-- [Marketing]()
+# [Marketing]()
 
   ---
 
-- [Health & Fitness]()
+# [Health & Fitness]()
 
   ---
 
-- [Music]()
+# [Music]()
   - [Instruments]()
   - [Ableton Live]()
   - [Music Production]()
