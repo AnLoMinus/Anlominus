@@ -3,3 +3,7 @@
 ---
 
 - `#india #software #projectmanagement #covid #engineering #sales #realestate #love #socialmedia #fashion #bhfyp #inspiration #instagram #development #follow #team #artist #teamwork #managementconsulting #consultant #investment #hospitality #model #talent #mindset #businessowner #job #communication #learning #construction`
+
+---
+
+- `#management #urban #street #onsite #construction #buildings #motivation #ניהולפרויקטים #projects #civilengineering #israel #business #underconstruction #supervisor #orenengineering #inprogress #city #agencylife #inspire #haifa #publicspeaker #emotions #inspiration #thingsmanagerssay #telavivcity #cincodemayo #visitingisrael #superb #scouting`
