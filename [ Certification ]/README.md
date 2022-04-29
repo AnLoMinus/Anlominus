@@ -1,4 +1,4 @@
-# Certificates in topics I love, work on, and develop!
+Topics I love, work on, and develop!
 
 - [Development]()
   - [Android Development]()
