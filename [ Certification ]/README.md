@@ -26,17 +26,39 @@
   - [HTML5]()
   - [MySQL]()
 
-  
-
+  ---
 
 - [Business]()
+
+  ---
+
 - [Finance & Accounting]()
+
+  ---
+
 - [IT & Software]()
+
+  ---
+
 - [Office Productivity]()
+
+  ---
+
 - [Personal Development]()
+
+  ---
+
 - [Design]()
+
+  ---
+
 - [Marketing]()
+
+  ---
+
 - [Health & Fitness]()
+
+  ---
 
 - [Music]()
   - [Instruments]()
