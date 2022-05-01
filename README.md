@@ -52,7 +52,7 @@
 
  <br>
 
-⫷ [Stars](https://github.com/Anlominus?tab=stars) - [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [Music](https://github.com/Anlominus/Music) ⫸
+⫷ [Stars](https://github.com/Anlominus?tab=stars) - [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [Music](https://github.com/Anlominus/Music) - [👽 Cyber Elite+ 👽](t.me/CyberElitePlusChannel)⫸
 
 </h6>
 
