@@ -52,7 +52,9 @@
 
  <br>
 
-⫷ [Stars](https://github.com/Anlominus?tab=stars) - [HคcKᎥήg](https://github.com/Anlominus/HacKing) - [Music](https://github.com/Anlominus/Music) - [👽 Cyber Elite+ 👽](https://t.me/CyberElitePlusChannel)⫸
+⫷ [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) - [👽 Cyber Elite+ 👽](https://t.me/s/CyberElitePlusChannel)⫸
+
+<a href="https://github.com/Anlominus/HacKing"> HคcKᎥήg <img src="https://img.shields.io/github/stars/Anlominus/HacKing.svg?style=social&label=Star&maxAge=2592000"> </a>
 
 </h6>
 
