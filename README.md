@@ -14,6 +14,8 @@
 
 <h5 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h5>
 
+<h5 align="center">Knowledge is power, thirsts for more, loves to love to learn!</h5>
+
 
 <h6 align="center">
  <p align="center" dir="auto">
