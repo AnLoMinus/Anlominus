@@ -1,4 +1,4 @@
-<h1 align="center"> Anlominus</h1>
+<h1 align="center">⚜️ Anlominus ⚜️</h1>
 
 ```
 'I'm not a minus'
