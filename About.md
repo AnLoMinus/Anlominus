@@ -37,8 +37,8 @@ Its a pentesters job to find and report security holes before an attacker does.
 
 🔮 You'll find my Works in one of these: 🔷
 
+ - 🔹 GitHub: https://github.com/Anlominus
  - 🔹 Telegram: https://t.me/CyberElitePlusChannel
- - 🔹 GitHub: https://githubhelp.com/Anlominus
- - GitHub: https://github.com/Anlominus
+ - 🔹 GitHub Help: https://githubhelp.com/Anlominus
 
 #######################################
