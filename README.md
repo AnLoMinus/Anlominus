@@ -1,9 +1,3 @@
-<!-- <div align="center">
-
-![image](https://user-images.githubusercontent.com/51442719/146544018-ce62fbbb-f481-422f-ba19-0ade2825cf57.png)
-
-</div> -->
-
 <h2 align="center">
  
  ⫷[D̷̨̥̥̥͖̞͐ͮ̄A̳̳̹̟̋ͣ͌ͅT̼̼̖̾͟͞Ơ̷̴̪̪̝͈̥͈̆̀̚S̢̼̼͖̺͖ͪ](https://github.com/Anlominus/Anlominus/blob/main/DATOS.md)⫸
@@ -12,6 +6,10 @@
 
 <h2 align="center"><a href="https://github.com/Anlominus/Anlominus">⚜️ Aภl๏miuภuຮ ⚜️</a></h2>
 
+<!-- <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%f4f4f4f4&size=22&vCenter=true&height=40&lines=Anlominus+RhytMix+Hope+there+is+something+you+need">
+</h1>  
+ -->
 <h5 align="center">🔱 We believe in God, everyone else is suspicious 🔱</h5>
 
 <h5 align="center">Knowledge is power, thirsts for more, loves to love to learn!</h5>
