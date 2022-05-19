@@ -66,6 +66,21 @@
 
 ---
  
+<h2 align="center"><u>My Github Stats</u>
+
+<a align="center" href="https://github.com/Anlominus" target="_blank"><img src="https://img.shields.io/badge/Github-Anlominus-green?style=for-the-badge&logo=github"></a></h2>
+
+<p align="center">
+<br>
+<img src="https://metrics.lecoq.io/Anlominus?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	
+<br>
+
+ </p>
+
+
+ </div>
+
+
 <p align="center"><a href="https://github.com/Anlominus">
  <br>
  
@@ -176,17 +191,5 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
-
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<br>
-<img src="https://metrics.lecoq.io/Anlominus?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	
-<br>
-
- </p>
-
-<a href="https://github.com/Anlominus" target="_blank"><img src="https://img.shields.io/badge/Github-Anlominus-green?style=for-the-badge&logo=github"></a>
-
- </div>
 
 
