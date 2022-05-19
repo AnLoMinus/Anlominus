@@ -1,4 +1,8 @@
-# 📝 Notes 🗒 
+<div align="center">
+
+ <h1> 📝 Notes 🗒 </h1>
+
+</div>
 
 ---
 
@@ -66,7 +70,7 @@ All My Skills/Services
 <details>
 
  <summary>
-👉🏼 Challenges 🤞🏼
+<h2> 👉🏼 Challenges 🤞🏼 </h2>
   </summary>
  
 <h5> 
@@ -87,7 +91,7 @@ All My Skills/Services
 <details>
 
  <summary>
-👉🏼 Learning 🤞🏼
+<h2> 👉🏼 Learning 🤞🏼 </h2>
   </summary>
  <h5>
 
@@ -103,7 +107,7 @@ All My Skills/Services
 <details>
 
  <summary>
- 👉🏼 Working 🤞🏼 
+  <h2> 👉🏼 Working 🤞🏼 </h2>
  </summary>
  <h5>
 
