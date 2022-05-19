@@ -121,9 +121,10 @@ All My Skills/Services
   
 ### Finish Web Site Objectives
 #### CodePen:
-- <p align=""><a href="https://codepen.io/Anlominus">CodePen</a></p>
-- <p align=""><a href="https://codepen.io/Anlominus/project/full/ZRoBbv">Leon Yaakobov FX</a></p>
-- <p align=""><a href="https://cdpn.io/Anlominus/debug/eYGBGEa/yPAJjRVDXBoA">WebSite</p></a>
+- - [ ] [CodePen](https://codepen.io/Anlominus)
+- - [ ] [Project](https://codepen.io/Anlominus/project/full/ZRoBbv)
+- - [ ] [WebSite](https://cdpn.io/Anlominus/debug/eYGBGEa/yPAJjRVDXBoA)
+  
  
  </h5>
 </details>
