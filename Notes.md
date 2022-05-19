@@ -63,7 +63,7 @@ All My Skills/Services
 
 ---
 
-<details align="center">
+<details>
 
  <summary>
 ༺ Challenges ༻ 
@@ -78,7 +78,7 @@ All My Skills/Services
 </details>
 
 
-<details align="center">
+<details>
 
  <summary>
 ⫷ Learning ⫸
@@ -94,7 +94,7 @@ All My Skills/Services
 </details>
 
 
-<details align="center">
+<details>
 
  <summary>
 ⫷ Working ⫸
