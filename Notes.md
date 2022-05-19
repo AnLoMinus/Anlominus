@@ -66,7 +66,7 @@ All My Skills/Services
 <details>
 
  <summary>
-༺ Challenges ༻ 
+Challenges 
   </summary>
  
 <h5> 
@@ -87,7 +87,7 @@ All My Skills/Services
 <details>
 
  <summary>
-⫷ Learning ⫸
+Learning 
   </summary>
  <h5>
 
@@ -103,7 +103,7 @@ All My Skills/Services
 <details>
 
  <summary>
-⫷ Working ⫸
+Working 
   </summary>
  <h5>
 
