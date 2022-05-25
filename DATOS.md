@@ -14,6 +14,8 @@
 <a id="link3" href="https://kodesh.snunit.k12.il/i/tr/t0301.htm">ויקרא</a> <br>
 <a id="link4" href="https://kodesh.snunit.k12.il/i/tr/t0401.htm">במדבר</a> <br>
 <a id="link5" href="https://kodesh.snunit.k12.il/i/tr/t0501.htm">דברים</a> <br>
+
+<a id="link6" href="https://netsor.org/halachot/">הלכות שמירת הלשון</a> <br>
     </tr>
   </tbody>
 </table>
@@ -154,3 +156,4 @@
 
   
 ---
+	
