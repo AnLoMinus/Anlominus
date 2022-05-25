@@ -4,17 +4,17 @@
 #!/usr/bin/env bash
 #!/data/data/com.termux/files/usr/bin/bash
 ###############################################
-# Name : Anlominus ~ Diablo
-# Description : Diablo ~ enter you target and get Markdown Report.
+# Name : Anlominus ~ Anlominus.sh
+# Description : Anlominus.sh ~ 
 # Date : 2022 May
 Anlominus="Anlominus"
 # Last UPDATE : 2022 May 25
-# Aouther: Anlominus ~> RhytMix ~> Diablo
+# Aouther: Anlominus ~> RhytMix ~> Anlominus.sh
 # Skils: Best Copywriter IN the COSMOS!
 # BIG THANX TO ALL COMUNITY THAT SHARE ALL THAT FREE GREAT SCRIPTS
 # CREDIT: To All World Creators free Scripts & Tools
 # Location: Made With LOVE IN ISRAEL !
-# Source: https://github.com/Anlominus/Diablo
+# Source: https://github.com/Anlominus/Anlominus/Anlominus.sh
 ###############################################
 clear
 ###############################################
