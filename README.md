@@ -62,6 +62,10 @@
 
 <a href="https://github.com/Anlominus/HacKing"> HคcKᎥήg <img src="https://img.shields.io/github/stars/Anlominus/HacKing.svg?style=social&label=Star&maxAge=2592000"> </a>
 
+<a href="https://github.com/Anlominus/Diablo"> Diablo <img src="https://img.shields.io/github/stars/Anlominus/Diablo.svg?style=social&label=Star&maxAge=2592000"> </a>
+
+<a href="https://github.com/Anlominus/ScanPro"> ScanPro <img src="https://img.shields.io/github/stars/Anlominus/ScanPro.svg?style=social&label=Star&maxAge=2592000"> </a>
+
 </h6>
 
 ---
