@@ -116,6 +116,7 @@ All My Skills/Services
 ### Finish Tools Objectives
 - - [ ] [👨‍💻 HacKing 👨‍💻](https://github.com/Anlominus/HacKing)
   - - [ ] [👨‍💻 Add: Download And Run Tools 👨‍💻](https://github.com/Anlominus/HacKing)
+- - [ ] [👨‍💻 Disblo 👨‍💻](https://github.com/Anlominus/Diablo)
 - - [ ] [👨‍💻 PenTest 👨‍💻](https://github.com/Anlominus/PenTest)
 - - [ ] [👨‍💻 ScanPro 👨‍💻](https://github.com/Anlominus/ScanPro)
 - - [ ] [🎯 Goals 🎯](https://github.com/Anlominus/Goals)
