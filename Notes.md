@@ -117,10 +117,9 @@ All My Skills/Services
 ### Finish Tools Objectives
 - - [ ] [👨‍💻 HacKing 👨‍💻](https://github.com/Anlominus/HacKing): Hacking Tools Downloader 
 - - [ ] [👨‍💻 HacKingPro 👨‍💻](https://github.com/Anlominus/HacKingPro): Easy HacKing Like a Pro !
-  - - [ ] [👨‍💻 Add: Download And Run Tools 👨‍💻](https://github.com/Anlominus/HacKingPro)
-- - [ ] [👨‍💻 Disblo 👨‍💻](https://github.com/Anlominus/Diablo)
+- - [ ] [👨‍💻 Disblo 👨‍💻](https://github.com/Anlominus/Diablo): Planning Scoping Vulnerabilities Assessment and Reporting!  
 - - [ ] [👨‍💻 PenTest 👨‍💻](https://github.com/Anlominus/PenTest)
-- - [ ] [👨‍💻 ScanPro 👨‍💻](https://github.com/Anlominus/ScanPro)
+- - [ ] [👨‍💻 ScanPro 👨‍💻](https://github.com/Anlominus/ScanPro) Nmap Scaning Menu!
 - - [ ] [🎯 Goals 🎯](https://github.com/Anlominus/Goals)
   
 ### Finish Web Site Objectives
