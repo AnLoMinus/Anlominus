@@ -115,8 +115,9 @@ All My Skills/Services
 # 🎯List To Do !
 
 ### Finish Tools Objectives
-- - [ ] [👨‍💻 HacKing 👨‍💻](https://github.com/Anlominus/HacKing)
-  - - [ ] [👨‍💻 Add: Download And Run Tools 👨‍💻](https://github.com/Anlominus/HacKing)
+- - [ ] [👨‍💻 HacKing 👨‍💻](https://github.com/Anlominus/HacKing): Hacking Tools Downloader 
+- - [ ] [👨‍💻 HacKingPro 👨‍💻](https://github.com/Anlominus/HacKingPro): Easy HacKing Like a Pro !
+  - - [ ] [👨‍💻 Add: Download And Run Tools 👨‍💻](https://github.com/Anlominus/HacKingPro)
 - - [ ] [👨‍💻 Disblo 👨‍💻](https://github.com/Anlominus/Diablo)
 - - [ ] [👨‍💻 PenTest 👨‍💻](https://github.com/Anlominus/PenTest)
 - - [ ] [👨‍💻 ScanPro 👨‍💻](https://github.com/Anlominus/ScanPro)
