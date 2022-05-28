@@ -6,6 +6,8 @@
 
 <h2 align="center"><a href="https://github.com/Anlominus/Anlominus">⚜️ Aภl๏miuภuຮ ⚜️</a></h2>
 
+
+
 <!-- <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%f4f4f4f4&size=22&vCenter=true&height=40&lines=Anlominus+RhytMix+Hope+there+is+something+you+need">
 </h1>  
@@ -57,6 +59,7 @@
 </p>
 
  <br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Anlominus.png" alt="TryHackMe">
 
 ⫷ [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) - [👽 Cyber Elite+ 👽](https://t.me/s/CyberElitePlusChannel)⫸
 
