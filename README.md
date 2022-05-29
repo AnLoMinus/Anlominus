@@ -2,6 +2,9 @@
  
  ⫷[D̷̨̥̥̥͖̞͐ͮ̄A̳̳̹̟̋ͣ͌ͅT̼̼̖̾͟͞Ơ̷̴̪̪̝͈̥͈̆̀̚S̢̼̼͖̺͖ͪ](https://github.com/Anlominus/Anlominus/blob/main/DATOS.md)⫸
  
+  <a href=""><br><img title="Made in ISRAEL" src="https://img.shields.io/badge/MADE%20IN-ISRAEL-blue?style=for-the-badge"></a>
+
+ 
 </h2>
 
 <h2 align="center"><a href="https://github.com/Anlominus/Anlominus">⚜️ Aภl๏miuภuຮ ⚜️</a></h2>
