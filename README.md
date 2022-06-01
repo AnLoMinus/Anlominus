@@ -207,6 +207,8 @@
 
  <a href="https://github.com/Anlominus/ScanPro"><img title="ScanPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=ScanPro&theme=onedark"></a><br>
 
+ <a href="https://github.com/Anlominus/Studies"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Studies&theme=vue-dark"></a><br>
+ 
  
  ---
  
