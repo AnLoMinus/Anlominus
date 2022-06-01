@@ -206,3 +206,8 @@
  <a href="https://github.com/Anlominus/PenTest"><img title="PenTest" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=PenTest&theme=radical"></a><br>
 
  <a href="https://github.com/Anlominus/ScanPro"><img title="ScanPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=ScanPro&theme=onedark"></a><br>
+
+ 
+ ---
+ 
+ ![Alt](https://repobeats.axiom.co/api/embed/c4d73d5d9779f4dcd848eb13c02776e5c69081e9.svg "Repobeats analytics image")
