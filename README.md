@@ -209,6 +209,9 @@
 
  <a href="https://github.com/Anlominus/Studies"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Studies&theme=vue-dark"></a><br>
  
+ <a href="https://github.com/Anlominus/Goals"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Goals&theme=brightgreen"></a><br>
+
+ 
  
  ---
  
