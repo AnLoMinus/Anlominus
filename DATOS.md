@@ -7,6 +7,8 @@
 
 </div>  	      
 
+---
+
 <a id="link1" href="https://kodesh.snunit.k12.il/i/tr/t0101.htm">בראשית</a>       
 <a id="link2" href="https://kodesh.snunit.k12.il/i/tr/t0201.htm">שמות</a> <br>
 <a id="link3" href="https://kodesh.snunit.k12.il/i/tr/t0301.htm">ויקרא</a> <br>
@@ -18,9 +20,8 @@
 <a id="link6" href="https://oraita.net/tikun-haclali/">תיקון הכללי</a> <br>
 <a id="link6" href="https://netsor.org/halachot/">הלכות שמירת הלשון</a> <br>
 <a id="link6" href="https://mikve.net/">מקווה.נט</a> <br>
-  
-  
-	
+
+---
 
 תפילת הודיה לבורא עולם
 <h3 align="center">
