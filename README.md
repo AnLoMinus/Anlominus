@@ -199,9 +199,9 @@
 
 ---
  
- <a href="https://github.com/Anlominus/Diablo"><img title="Diablo" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Diablo&theme=vision-friendly-dark"></a>
+ <a href="https://github.com/Anlominus/Diablo"><img title="Diablo" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Diablo&theme=radical"></a>
 
- <a href="https://github.com/Anlominus/HacKing"><img title="HacKing" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKing&theme=radical"></a>
+ <a href="https://github.com/Anlominus/HacKing"><img title="HacKing" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKing&theme=vision-friendly-dark"></a>
 
  <a href="https://github.com/Anlominus/PenTest"><img title="PenTest" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=PenTest&theme=shades-of-purple"></a>
 
