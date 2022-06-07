@@ -6,8 +6,6 @@
   מקורות - Sources
   
   <tbody>
-    <tr>
-      <td>
 	      
 <a id="link1" href="https://kodesh.snunit.k12.il/i/tr/t0101.htm">בראשית</a>       
 <a id="link2" href="https://kodesh.snunit.k12.il/i/tr/t0201.htm">שמות</a> <br>
@@ -15,16 +13,13 @@
 <a id="link4" href="https://kodesh.snunit.k12.il/i/tr/t0401.htm">במדבר</a> <br>
 <a id="link5" href="https://kodesh.snunit.k12.il/i/tr/t0501.htm">דברים</a> <br>
 <br>
-<br>
-<a id="link6" href="https://netsor.org/halachot/">הלכות שמירת הלשון</a> <br>
-<a id="link6" href="https://oraita.net/tikun-haclali/">תיקון הכללי</a> <br>
-<a id="link6" href="https://oraita.net/avot/">פרקי אבות</a> <br>
 <a id="link6" href="https://tehilim.co/">תהילים</a> <br>
+<a id="link6" href="https://oraita.net/avot/">פרקי אבות</a> <br>
+<a id="link6" href="https://oraita.net/tikun-haclali/">תיקון הכללי</a> <br>
+<a id="link6" href="https://netsor.org/halachot/">הלכות שמירת הלשון</a> <br>
 <a id="link6" href="https://mikve.net/">מקווה.נט</a> <br>
 	      
 	      
-    </tr>
-  </tbody>
 </table>
   
 תפילת הודיה לבורא עולם
