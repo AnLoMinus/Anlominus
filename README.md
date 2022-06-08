@@ -210,6 +210,7 @@
  
  <a href="https://github.com/Anlominus/Goals"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Goals&theme=merko"></a><br>
 
+ <a href="https://github.com/Anlominus/TryHackMe"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=TryHackMe&theme=github_dark"></a><br>
  
  ---
  
