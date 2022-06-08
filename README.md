@@ -65,6 +65,10 @@
 
 ⫷ [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) - [👽 Cyber Elite+ 👽](https://t.me/s/CyberElitePlusChannel) - [⚜️ TryHackMe ⚜️](https://github.com/Anlominus/TryHackMe/)⫸
 
+ <br>
+
+⫷ [🔱 HacKing 🔱](https://github.com/Anlominus/HacKing) | [🔱 HacKingPro 🔱](https://github.com/Anlominus/HacKingPro) | [🔱 ScanPro 🔱](https://github.com/Anlominus/ScanPro) ⫸
+
 </h6>
 
 ---
