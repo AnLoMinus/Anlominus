@@ -212,6 +212,16 @@
 
  <a href="https://github.com/Anlominus/TryHackMe"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=TryHackMe&theme=github_dark"></a><br>
  
- ---
+---
  
  ![Alt](https://repobeats.axiom.co/api/embed/c4d73d5d9779f4dcd848eb13c02776e5c69081e9.svg "Repobeats analytics image")
+
+---
+
+## Support
+
+- ⭐️ Simplest way to say Thanks is just to it a Star 🤩
+- ❤️ To show more support:
+  - ☕️ [buy me a coffee](https://buymeacoffee.com/Anlominus)
+  - 👏🏿 [sponsor me](https://github.com/sponsors/Anlominus)
+- ✨ Contributions of any kind are welcome!
