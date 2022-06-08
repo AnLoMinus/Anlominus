@@ -59,15 +59,11 @@
 </p>
 
  <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Anlominus.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/Anlominus">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Anlominus.png" alt="TryHackMe">
+</a>
 
-⫷ [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) - [👽 Cyber Elite+ 👽](https://t.me/s/CyberElitePlusChannel)⫸
-
-<a href="https://github.com/Anlominus/HacKing"> HคcKᎥήg <img src="https://img.shields.io/github/stars/Anlominus/HacKing.svg?style=social&label=Star&maxAge=2592000"> </a>
-
-<a href="https://github.com/Anlominus/Diablo"> Diablo <img src="https://img.shields.io/github/stars/Anlominus/Diablo.svg?style=social&label=Star&maxAge=2592000"> </a>
-
-<a href="https://github.com/Anlominus/ScanPro"> ScanPro <img src="https://img.shields.io/github/stars/Anlominus/ScanPro.svg?style=social&label=Star&maxAge=2592000"> </a>
+⫷ [Stars](https://github.com/Anlominus?tab=stars) - [Music](https://github.com/Anlominus/Music) - [👽 Cyber Elite+ 👽](https://t.me/s/CyberElitePlusChannel) - [⚜️ TryHackMe ⚜️](https://github.com/Anlominus/TryHackMe/)⫸
 
 </h6>
 
