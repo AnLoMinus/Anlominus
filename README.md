@@ -199,6 +199,8 @@
 
  <a href="https://github.com/Anlominus/HacKing"><img title="HacKing" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKing&theme=vision-friendly-dark"></a>
 
+ <a href="https://github.com/Anlominus/HacKingPro"><img title="HacKing" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKingPro&theme=vision-friendly-dark"></a>
+
  <a href="https://github.com/Anlominus/PenTest"><img title="PenTest" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=PenTest&theme=shades-of-purple"></a>
 
  <a href="https://github.com/Anlominus/ScanPro"><img title="ScanPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=ScanPro&theme=onedark"></a>
