@@ -14,8 +14,6 @@
 
 <h5 align="center">Knowledge is power, thirsts for more, loves to love to learn!</h5>
 
-> <h4>👋🏼 Hello everyone, I write open source for information security and hacking, I write my codes in GitHub for free and to everyone, I would be very happy if you could help me and support me, donate what you can please 🙏🤞</h4>
-
 # How to write SMART goals
 - **S**: [Specific](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#s-specific) Well defined, clear, and unambiguous
 - **M**: [Measurable](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#m-measurable) With specific criteria that measure your progress toward the accomplishment of the goal
@@ -221,7 +219,7 @@
 ---
  
 ## Support
-
+> <h4>👋🏼 Hello everyone, I write open source for information security and hacking, I write my codes in GitHub for free and to everyone, I would be very happy if you could help me and support me, donate what you can please 🙏🤞</h4>
 - ⭐️ Simplest way to say Thanks is just to it a Star 🤩
 - ❤️ To show more support:
   - ☕️ [buy me a coffee](https://buymeacoffee.com/Anlominus)
