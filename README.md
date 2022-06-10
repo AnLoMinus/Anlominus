@@ -1,5 +1,7 @@
 > בס״ד
 <h2 align="center">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
  
  ⫷[D̷̨̥̥̥͖̞͐ͮ̄A̳̳̹̟̋ͣ͌ͅT̼̼̖̾͟͞Ơ̷̴̪̪̝͈̥͈̆̀̚S̢̼̼͖̺͖ͪ](https://github.com/Anlominus/Anlominus/blob/main/DATOS.md)⫸
  
