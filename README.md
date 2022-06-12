@@ -27,6 +27,14 @@
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="450" height="1">
 
+<div align="center">
+
+  <img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
+  <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
+  <img src = "https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" >
+
+</div>
+
 </div>
 
 # How to write SMART goals
