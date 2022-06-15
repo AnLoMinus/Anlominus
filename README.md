@@ -19,13 +19,13 @@
 <br>
 ⫷ [`TryHackMe`](https://github.com/Anlominus/TryHackMe) | [`KoTH`](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) ⫸ 
 <br>
+⫷ [`Privilege-Escalation`](https://github.com/Anlominus/Privilege-Escalation) ⫸
+<br>
 ⫷ [`ScanPro`](https://github.com/Anlominus/ScanPro) | [`Linfo`](https://github.com/Anlominus/Linfo) | [`Diablo`](https://github.com/Anlominus/Diablo) ⫸ 
 <br>
 ⫷ [`Offensive-Security`](https://github.com/Anlominus/Offensive-Security) | [`PenTest`](https://github.com/Anlominus/PenTest) ⫸
 <br>
 ⫷ [`Goals`](https://github.com/Anlominus/Goals) | [`Studies`](https://github.com/Anlominus/Studies) | [`HacKing`](https://github.com/Anlominus/HacKing) | [`AnyTeam`](https://github.com/Anlominus/AnyTeam) ⫸
-<br>
-⫷ [`Privilege-Escalation`](https://github.com/Anlominus/Privilege-Escalation) ⫸
 <br>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
 
