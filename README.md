@@ -271,3 +271,9 @@
   - ☕️ [buy me a coffee](https://buymeacoffee.com/Anlominus)
   - 👏🏿 [sponsor me](https://github.com/sponsors/Anlominus)
 - ✨ Contributions of any kind are welcome!
+
+---
+ 
+
+**[`^        back to top        ^`](#)**
+
