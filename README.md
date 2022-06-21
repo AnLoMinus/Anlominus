@@ -130,10 +130,15 @@
 
 <p align="center"><a href="https://github.com/Anlominus">
  <br>
- 
- 
+  
 <div align="center">
 <p align="center">
+
+<p align="center"> 
+ <a href="https://github.com/Anlominus/">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anlominus&theme=onedark&no-frame=true&column=7" alt="Anlominus"/>
+ </a> 
+ </p>
 
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anlominus&theme=black-ice" alt="thespeedx" />
@@ -144,12 +149,6 @@
     src="https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&count_private=true&theme=react&bg_color=151515" />
 </a>
 <br>
-<br>
-<p align="center"> 
- <a href="https://github.com/Anlominus/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anlominus&theme=onedark" alt="Anlominus" />
- </a> 
- </p>
 <br>
 <a href="https://github.com/Anlominus">
   <img alt="Anlominus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anlominus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
