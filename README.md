@@ -235,13 +235,12 @@
 
 ---
  
-123|123
- :---:|:---:
- <a href="https://github.com/Anlominus/Bug-Bounty"><img title="Bug-Bounty" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Bug-Bounty&theme=great-gatsby"></a> | <a href="https://github.com/Anlominus/Diablo"><img title="Diablo" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Diablo&theme=maroongold"></a>
- <a href="https://github.com/Anlominus/HacKingPro"><img title="HacKingPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKingPro&theme=apprentice"></a> | <a href="https://github.com/Anlominus/HacKing"><img title="HacKing" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKing&theme=vision-friendly-dark"></a>
- <a href="https://github.com/Anlominus/PenTest"><img title="PenTest" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=PenTest&theme=shades-of-purple"></a> | <a href="https://github.com/Anlominus/ScanPro"><img title="ScanPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=ScanPro&theme=onedark"></a>
- <a href="https://github.com/Anlominus/Studies"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Studies&theme=vue-dark"></a> | <a href="https://github.com/Anlominus/Goals"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Goals&theme=merko"></a><br>
- <a href="https://github.com/Anlominus/TryHackMe"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=TryHackMe&theme=github_dark"></a><br> | Clear
+Working | In Process | Interesting
+ :---:|:---:|:---:
+ <a href="https://github.com/Anlominus/Bug-Bounty"><img title="Bug-Bounty" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Bug-Bounty&theme=great-gatsby"></a> | <a href="https://github.com/Anlominus/Diablo"><img title="Diablo" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Diablo&theme=maroongold"></a> | <a href="https://github.com/Anlominus/Studies"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Studies&theme=vue-dark"></a> 
+<a href="https://github.com/Anlominus/HacKing"><img title="HacKing" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKing&theme=vision-friendly-dark"></a> | <a href="https://github.com/Anlominus/HacKingPro"><img title="HacKingPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKingPro&theme=apprentice"></a> 
+<a href="https://github.com/Anlominus/ScanPro"><img title="ScanPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=ScanPro&theme=onedark"></a> | changeme | <a href="https://github.com/Anlominus/Goals"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Goals&theme=merko"></a><br>
+<a href="https://github.com/Anlominus/TryHackMe"><img title="Studies" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=TryHackMe&theme=github_dark"></a><br> | Clear | <a href="https://github.com/Anlominus/PenTest"><img title="PenTest" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=PenTest&theme=shades-of-purple"></a>
  
 ---
  
