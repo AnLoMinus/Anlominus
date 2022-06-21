@@ -239,7 +239,7 @@
 
  <a href="https://github.com/Anlominus/Diablo"><img title="Diablo" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=Diablo&theme=maroongold"></a>
 
- <a href="https://github.com/Anlominus/HacKingPro"><img title="HacKingPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKingPro&theme=vision-apprentice"></a>
+ <a href="https://github.com/Anlominus/HacKingPro"><img title="HacKingPro" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKingPro&theme=apprentice"></a>
 
  <a href="https://github.com/Anlominus/HacKing"><img title="HacKing" src="https://github-readme-stats.vercel.app/api/pin/?username=Anlominus&repo=HacKing&theme=vision-friendly-dark"></a>
 
