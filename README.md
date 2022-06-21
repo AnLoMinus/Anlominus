@@ -82,10 +82,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlominus&langs_count=8&theme=onedark" />
 </p>
 
- <br>
-<a href="https://tryhackme.com/p/Anlominus">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Anlominus.png" alt="TryHackMe">
-</a>
 
 <br>
 
@@ -105,8 +101,11 @@
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="450" height="1"><br>
 
-⫷ [`HacKing`](https://github.com/Anlominus/HacKing) | [`HacKingPro`](https://github.com/Anlominus/HacKingPro) | [`KoTH`](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) | [`ScanPro`](https://github.com/Anlominus/ScanPro) | [`Diablo`](https://github.com/Anlominus/Diablo) ⫸
-
+ <br>
+<a href="https://tryhackme.com/p/Anlominus">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Anlominus.png" alt="TryHackMe">
+</a><br>
+ 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
 
 </h6>
