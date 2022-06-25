@@ -25,6 +25,13 @@
 ---
 
 - ### [Sorry Family]()
+  > - ### Sorry dear family 🙏🏼
+  > - Sorry Dad and Mom for all the times I was cheeky and spoke disrespectfully. 🙏🏼
+  > - Sorry family I always get on your nerves. 🙏🏼
+  > - Dear family! Apologizes wholeheartedly. 🙏🏼
+  > - I wish we could continue to be a better, united and cohesive family without nerves and without unnecessary quarrels! 🙏🏼
+  > - Written in the book The Good Life Ltd.! 🙏🏼
+  > - Amen 🙏🏼 
 
 ---
 
