@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Sorry](https://github.com/Anlominus/Anlominus/blob/main/Sorry.md)
+# 🙏🏼 [Sorry](https://github.com/Anlominus/Anlominus/blob/main/Sorry.md) 🙏🏼
 
 </div>
 
