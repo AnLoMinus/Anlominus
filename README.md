@@ -89,7 +89,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlominus&langs_count=8&theme=onedark" />
 </p>
 
-
 <br>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
@@ -280,3 +279,23 @@ Working | In Process | Interesting
   
 </h2>
 
+
+---
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/AnLoMinus/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg" /> LinkedIn</a>
+  </code>
+  <code>
+    <a href="https://twitter.com/AnLoMinus/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" /> Twitter</a>
+  </code>
+  <code>
+    <a href="https://www.instagram.com/AnLoMinus/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg" /> Instagram</a>
+  </code>
+  <code>
+    <a href="https://www.twitch.tv/AnLoMinus"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg" /> Twitch</a>
+  </code>
+  <code>
+    <a href="https://www.youtube.com/c/AnLoMinus"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg" /> YouTube</a>
+  </code>
+</h5>
