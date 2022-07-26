@@ -61,6 +61,8 @@
  
 <h2 align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4444&center=true&lines=%F0%9F%A5%87+Success+is+for+the+brave+%F0%9F%A5%87)](https://git.io/typing-svg)
+	
 `🥇` ההצלחה מיועדת לאמיצים `🥇`
 
 אנחנו מאמינים באלוהים, כל אחד אחר חשוד`!`
