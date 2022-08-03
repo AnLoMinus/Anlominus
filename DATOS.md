@@ -20,6 +20,8 @@
 <a id="link6" href="https://oraita.net/tikun-haclali/">תיקון הכללי</a> <br>
 <a id="link6" href="https://netsor.org/halachot/">הלכות שמירת הלשון</a> <br>
 <a id="link6" href="https://mikve.net/">מקווה.נט</a> <br>
+<br>
+<a id="link6" href="https://beitel.info/birkat-hamazon">ברכת המזון</a> <br>
 
 ---
 
