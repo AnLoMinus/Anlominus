@@ -290,7 +290,7 @@ Working | In Process | Interesting
     <a href="https://twitter.com/AnLoMinus/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" /> Twitter</a>
   </code>
   <code>
-    <a href="https://www.instagram.com/AnLoMinus/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg" /> Instagram</a>
+    <a href="https://www.instagram.com/AnLoMinusX/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg" /> Instagram</a>
   </code>
   <code>
     <a href="https://www.twitch.tv/AnLoMinus"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg" /> Twitch</a>
