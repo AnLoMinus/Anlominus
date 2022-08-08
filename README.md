@@ -299,3 +299,5 @@ Working | In Process | Interesting
     <a href="https://www.youtube.com/c/AnLoMinus"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg" /> YouTube</a>
   </code>
 </h5>
+
+- [Discord Invite](https://discord.gg/wqt8TjQU9p)
