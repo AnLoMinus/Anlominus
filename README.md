@@ -119,6 +119,9 @@
 ---
  
 <h2 align="center"><u>My Github Stats</u>
+
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnLoMinus&theme=monokai)
+
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <a align="center" href="https://github.com/Anlominus" target="_blank"><img src="https://img.shields.io/badge/Github-Anlominus-green?style=for-the-badge&logo=github"></a></h2>
 
