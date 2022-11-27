@@ -158,7 +158,7 @@
 <li>  
 <details>
 <summary>Twitch</summary>
-© https://www.twitch.tv/dondada1703
+© https://www.twitch.tv/AnLoMinus
 </details></li>
 <li>
 <details>
