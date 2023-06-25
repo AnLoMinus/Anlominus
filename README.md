@@ -45,7 +45,6 @@
 
 <div align="center">
 
-  ![](WhatsApp%20Image%202023-06-23%20at%2012.37.03.jpeg)
   <img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
   <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
   <img src = "https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" >
