@@ -15,6 +15,9 @@
 
 <p align="center">🔱 We believe in God, Everyone Else is Suspicious 🔱</p>
 
+### 🔱 אנחנו מאמינים באלוקים, כל השאר חשודים 🔱
+
+
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2"><br>
  
 </h2>
@@ -42,11 +45,31 @@
 
 </div>
 
+
+# ⚜️ ברוכים הבאים לפרופיל שלי ⚜️
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2">
+
+## 🌟 על עצמי
+
+- 💻 מפתח ויוצר כלים לאבטחת מידע
+- 🛡️ מתמחה ב-Penetration Testing & Security
+- 📚 חוקר וכותב בתחומי אבטחה וטכנולוגיה
+- 🎯 מאמין בשיתוף ידע והעצמת הקהילה
+
+## 🎯 מטרות ויעדים
+
+- 🔒 פיתוח כלים חדשניים לאבטחת מידע
+- 📖 שיתוף ידע והדרכות בקהילה
+- 🤝 יצירת שיתופי פעולה מעניינים
+- 🌱 למידה מתמדת והתפתחות
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2">
+
+</h2>
+
+
 ---
-
-
-
-
 
 # לאון יעקובוב 👨‍💻
 
@@ -57,12 +80,12 @@
 
 ### 📝 סיכום מקצועי
 
-**טכנאי תקשורת ומתקין בכיר** 📡 עם ניסיון של מעל 10 שנים בתחום התקשורת (אינטרנט, טלוויזיה 📺, וטלפוניה ☎️) ומעל 15 שנות חקר בתחום מדעי המחשב 💻. 
+**טכנאי תקשורת ומתקין בכיר** 📡 עם ניסיון של מעל 10 שנים בתחום התקשורת (אינטרנט, טלוויזיה 📺, וטלפוניה ☎️) ומעל 15 שנות חקר בתחום מדעי המחשב 💻.
 מתמחה בפתרונות טכנולוגיים מותאמים ללקוחות פרטיים ועסקיים, עם דגש על זריזות 🏃, אחריות 🎯 ויכולת לפתרון בעיות מורכבות 🛠️ בשטח.
 
 ---
 
- 
+<div dir="rtl" align="right">
 ### 💼 ניסיון תעסוקתי
 
 - **📡 מתקין בכיר וטכנאי תקשורת**  
@@ -71,6 +94,13 @@
   - 🛠️ התקנה ושדרוג מערכות תקשורת ללקוחות פרטיים ועסקיים.  
   - 🔧 פתרון בעיות טכניות בזמן אמת בשטח, תוך מתן שירות איכותי ללקוחות.  
   - 🚀 ניהול פרויקטים טכניים מורכבים עבור לקוחות עסקיים עם צרכים ייחודיים.
+  
+#### 👨‍💻 מומחה אבטחת מידע ופיתוח | עצמאי | 2010-היום
+
+- 🛡️ פיתוח וניהול פרויקטים בתחום אבטחת המידע
+- 🔍 ביצוע בדיקות חדירה ואיתור פרצות אבטחה
+- 📊 כתיבת דוחות טכניים ומסמכי אבטחה
+- 👥 הדרכת צוותים וייעוץ בנושאי אבטחת מידע
 
 - **💻 חוקר ויוצר בתחום מדעי המחשב**  
   🔸 **מקום העבודה:** עצמאי  
@@ -79,6 +109,13 @@
   - 🕹️ פיתוח משחקים ותוכנות עם כלים טכנולוגיים מתקדמים.  
   - ⚙️ התאמה אישית של פתרונות טכנולוגיים לפי צרכי המשתמשים.
 
+#### 🌐 טכנאי תקשורת בכיר | הוט | 2012-2022
+
+- 📡 התקנה ותחזוקה של תשתיות תקשורת מתקדמות
+- 🔧 פתרון תקלות מורכבות בזמן אמת
+- 📊 ניהול פרויקטים טכניים גדולים
+- 👥 הדרכת טכנאים חדשים וליווי מקצועי
+
 - **🔐 תפקידים בתחומי אבטחה וניהול מלאי**  
   - תפקידי שמירה וסיור במסגרות מגוונות תוך שמירה על תקני בטיחות גבוהים 🚨.  
   - 📦 ניהול מחסנים וקבלת סחורה עם אחריות על ארגון וסידור.
@@ -86,15 +123,38 @@
 - **📚 הסמכות שונות**  
   מגוון הסמכות וניסיון בתחום מדעי המחשב, פיתוח תוכנות, ופתרונות טכנולוגיים.
 
----
+### 🎓 השכלה והסמכות
 
-### 🛠️ כישורים טכניים
+- 📚 קורסים מתקדמים באבטחת מידע
+- 🎯 הסמכות בתחום התקשורת והרשתות
+- 💻 לימודי תכנות ופיתוח תוכנה
+- 🔐 התמחות בPenetration Testing
+
+### 🛠️ כישורים טכניים מתקדמים
 
 - ⚡ מומחיות בהתקנת תשתיות תקשורת (אינטרנט, טלוויזיה, טלפוניה).  
-- 🖥️ ידע מעמיק במדעי המחשב ובפיתוח משחקים ותוכנות 🎮.  
+- תשתיות: סיבים אופטיים לווינים ועוד תשתיות תקשורת מתקדמות.
+- 🖥️ ידע מעמיק במדעי המחשב ובפיתוח אוטומציות ותוכנות 🎮.
 - 🔧 כישורי פתרון בעיות טכנולוגיות מורכבות בשטח ובתחום הדיגיטלי.  
 - 📈 כישורי למידה עצמית ויכולת לעבוד עם כלים טכנולוגיים מתקדמים 🛠️.  
 - 🤝 שירותיות ואחריות גבוהה בעבודה מול לקוחות פרטיים ועסקיים.
+
+
+</div>
+
+#### כלי אבטחה
+
+- Kali Linux 🐧
+- Metasploit 🛡️
+- Wireshark 📡
+- Burp Suite 🕷️
+
+#### שפות תכנות
+
+- Python 🐍
+- Bash 💻
+- JavaScript 🌐
+- HTML/CSS 🎨
 
 ---
 
@@ -147,7 +207,7 @@
 ---
 
 <div align="center">
- 
+
 ### 🙏 תודה מיוחדת
 
 תודה מיוחדת לקהילת הקוד הפתוח ולכל המפתחים והתורמים שעבודתם מאפשרת את קיום הפרויקט הזה.
@@ -278,3 +338,32 @@
 - על הנפלאות שאנו זוכים לראות בכל יום 🌟
 
 > יהי רצון שנזכה לראות ניסים ונפלאות בכל יום, ולהכיר בהשגחה הפרטית המלווה אותנו תמיד ✨🙏
+
+---
+
+## 🚀 הפרויקטים המובילים
+
+### 🛠️ כלי אבטחה
+
+[![HacKingPro](https://img.shields.io/badge/HacKingPro-Tool-red?style=for-the-badge&logo=github)](https://github.com/Anlominus/HacKingPro)
+[![ScanPro](https://img.shields.io/badge/ScanPro-Scanner-blue?style=for-the-badge&logo=github)](https://github.com/Anlominus/ScanPro)
+
+### 📚 לימוד והכשרה
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-green?style=for-the-badge&logo=tryhackme)](https://github.com/Anlominus/TryHackMe)
+[![KoTH](https://img.shields.io/badge/KoTH-Challenge-yellow?style=for-the-badge&logo=tryhackme)](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH)
+
+### 🔐 אבטחה מתקדמת
+
+[![Privilege-Escalation](https://img.shields.io/badge/Privilege-Escalation-purple?style=for-the-badge&logo=github)](https://github.com/Anlominus/Privilege-Escalation)
+[![Offensive-Security](https://img.shields.io/badge/Offensive-Security-black?style=for-the-badge&logo=github)](https://github.com/Anlominus/Offensive-Security)
+
+## 📊 סטטיסטיקות GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anlominus&show_icons=true&theme=radical)
+
+## 🌐 בוא נתחבר
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/AnLoMinus)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AnLoMinus)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://anlominus.github.io)
