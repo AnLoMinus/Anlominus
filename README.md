@@ -1,4 +1,4 @@
-> בס״ד 
+> בס״ד
 <div dir="rtl">
 
 <h2 align="center">
@@ -6,47 +6,10 @@
  <img align="center" title="Made in ISRAEL" src="https://img.shields.io/badge/MADE%20IN-ISRAEL-blue?style=for-the-badge">
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="200" height="2"> <br><br>
- 
- ⫷[D̷̨̥̥̥͖̞͐ͮ̄A̳̳̹̟̋ͣ͌ͅT̼̼̖̾͟͞Ơ̷̴̪̪̝͈̥͈̆̀̚S̢̼̼͖̺͖ͪ](https://github.com/AnLoMinus/DatOS/)⫸ <br> <br>
- 
- 🌑🌒🌓🌔🌕🌖🌗🌘🌑
- 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2"><br>
-
-<p align="center">🔱 We believe in God, Everyone Else is Suspicious 🔱</p>
-
-### 🔱 אנחנו מאמינים באלוקים, כל השאר חשודים 🔱
-
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2"><br>
- 
-</h2>
-
-<div align="center">
- 
-# <a href="https://github.com/Anlominus">⚜️ A̍ͭͩnLͭ̇̎̏̒oͩM̳͇i͎̞̝̪n̹̘̓ͣ̓͊̓ů͕̈s̙͉͎̫̈̌̇̐̂ ⚜️</a>
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1"> <br>
-
-<img align="center" width="100" src="https://user-images.githubusercontent.com/51442719/172729066-1293d382-4a31-4f03-8c23-ab0ea5f611a0.png">
-
-⫷ [`HacKingPro`](https://github.com/Anlominus/HacKingPro) ⫸
-<br>
-⫷ [`TryHackMe`](https://github.com/Anlominus/TryHackMe) | [`KoTH`](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) ⫸ 
-<br>
-⫷ [`Privilege-Escalation`](https://github.com/Anlominus/Privilege-Escalation) ⫸
-<br>
-⫷ [`ScanPro`](https://github.com/Anlominus/ScanPro) | [`Linfo`](https://github.com/Anlominus/Linfo) | [`Diablo`](https://github.com/Anlominus/Diablo) ⫸ 
-<br>
-⫷ [`Offensive-Security`](https://github.com/Anlominus/Offensive-Security) | [`PenTest`](https://github.com/Anlominus/PenTest) ⫸
-<br>
-⫷ [`Goals`](https://github.com/Anlominus/Goals) | [`Studies`](https://github.com/Anlominus/Studies) | [`HacKing`](https://github.com/Anlominus/HacKing) | [`AnyTeam`](https://github.com/Anlominus/AnyTeam) ⫸
-<br>
-
-</div>
-
 
 # ⚜️ ברוכים הבאים לפרופיל שלי ⚜️
+
+### 🔱 אנחנו מאמינים באלוקים, כל השאר חשודים 🔱
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2">
 
@@ -68,6 +31,28 @@
 
 </h2>
 
+<div align="center">
+
+# <a href="https://github.com/Anlominus">⚜️ A̍ͭͩnLͭ̇̎̏̒oͩM̳͇i͎̞̝̪n̹̘̓ͣ̓͊̓ů͕̈s̙͉͎̫̈̌̇̐̂ ⚜️</a>
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1"> <br>
+
+<img align="center" width="100" src="https://user-images.githubusercontent.com/51442719/172729066-1293d382-4a31-4f03-8c23-ab0ea5f611a0.png">
+
+⫷ [`HacKingPro`](https://github.com/Anlominus/HacKingPro) ⫸
+<br>
+⫷ [`TryHackMe`](https://github.com/Anlominus/TryHackMe) | [`KoTH`](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) ⫸
+<br>
+⫷ [`Privilege-Escalation`](https://github.com/Anlominus/Privilege-Escalation) ⫸
+<br>
+⫷ [`ScanPro`](https://github.com/Anlominus/ScanPro) | [`Linfo`](https://github.com/Anlominus/Linfo) | [`Diablo`](https://github.com/Anlominus/Diablo) ⫸
+<br>
+⫷ [`Offensive-Security`](https://github.com/Anlominus/Offensive-Security) | [`PenTest`](https://github.com/Anlominus/PenTest) ⫸
+<br>
+⫷ [`Goals`](https://github.com/Anlominus/Goals) | [`Studies`](https://github.com/Anlominus/Studies) | [`HacKing`](https://github.com/Anlominus/HacKing) | [`AnyTeam`](https://github.com/Anlominus/AnyTeam) ⫸
+<br>
+
+</div>
 
 ---
 
@@ -85,7 +70,6 @@
 
 ---
 
-<div dir="rtl" align="right">
 ### 💼 ניסיון תעסוקתי
 
 - **📡 מתקין בכיר וטכנאי תקשורת**  
@@ -139,22 +123,56 @@
 - 📈 כישורי למידה עצמית ויכולת לעבוד עם כלים טכנולוגיים מתקדמים 🛠️.  
 - 🤝 שירותיות ואחריות גבוהה בעבודה מול לקוחות פרטיים ועסקיים.
 
+---
 
-</div>
+### 🎯 מיומנויות מרכזיות
 
-#### כלי אבטחה
+🔐 **אבטחת מידע**
 
-- Kali Linux 🐧
-- Metasploit 🛡️
-- Wireshark 📡
-- Burp Suite 🕷️
+- 🛡️ בדיקות חדירה וסריקת פגיעויות
+- 🔍 חקירת אירועי אבטחה
+- 🚨 ניטור ומניעת איומים
+- 🔒 הצפנה ואבטחת רשתות
 
-#### שפות תכנות
+🌐 **תקשורת ורשתות**
 
-- Python 🐍
-- Bash 💻
-- JavaScript 🌐
-- HTML/CSS 🎨
+- 📡 התקנת תשתיות תקשורת מתקדמות
+- 🛰️ תקשורת לוויינית וסיבים אופטיים
+- 🔌 ניהול רשתות ותשתיות
+- 📶 אופטימיזציה של ביצועי רשת
+
+💻 **פיתוח ותכנות**
+
+- ⌨️ פיתוח ואוטומציה בכל תחום במדעי המחשב
+- 🤖 בינה מלאכותית ולמידת מכונה
+- 🎮 פיתוח משחקים ומערכות אינטראקטיביות
+- 📱 פיתוח אפליקציות ווב.
+- פיתוח אסטרטגי ומנטלי בכל תחום במדעי המחשב.
+- פיתוח מערכות מחשב ואוטומציה בכל תחום במדעי המחשב.
+- שיווק מיתוג ופרסום בכל תחום במדעי המחשב.
+
+### 🛠️ כלים וטכנולוגיות
+
+🔧 **כלי אבטחה**
+
+- 🐧 Kali Linux - מערכת הפעלה לבדיקות חדירה
+- 🛡️ Metasploit - פלטפורמה לבדיקות אבטחה
+- 📡 Wireshark - ניתוח תעבורת רשת
+- 🕷️ Burp Suite - בדיקת אבטחת אפליקציות
+
+⚡ **שפות תכנות**
+
+- 🐍 Python - אוטומציה וסקריפטים
+- 🖥️ Bash - תכנות מערכות ואוטומציה
+- 🌐 JavaScript - פיתוח צד לקוח
+- 🎨 HTML/CSS - עיצוב ופיתוח ממשקים
+
+🔨 **כלי פיתוח**
+
+- 📊 Git - ניהול גרסאות
+- Cursor IDE - כלי פיתוח מתקדם
+- google chrome - בדיקת אתרים ואפליקציות  
+-
 
 ---
 
