@@ -1,3 +1,5 @@
+![ChatGPT Image Apr 29, 2025, 02_58_34 PM](https://github.com/user-attachments/assets/f6aacc1d-e352-4430-882e-83c5756a8b69)
+
 # 🎯 משה לאון יעקובוב | מומחה אבטחת מידע ותשתיות
 
 ## 🔱 "אנחנו מאמינים באלוקים, כל השאר חשודים" 🔱
