@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 29, 2025, 02_58_34 PM](https://github.com/user-attachments/assets/f6aacc1d-e352-4430-882e-83c5756a8b69)
+![AnLoMinus_ Elements in Balance](https://github.com/user-attachments/assets/97d274e2-f9d5-4001-a34c-5b8a53d76fb4)
 
 # 🎯 משה לאון יעקובוב | מומחה אבטחת מידע ותשתיות
 
