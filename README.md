@@ -1,4 +1,15 @@
+<div align="center">
+
+<h1 style="color:#ff6600;">🔥 אם אין דרך – אני בונה אחת. 🔥</h1>  
+<h2 style="color:#00ccff;">🤖 העתיד כבר כאן, אני רק מחבר את החוטים. 🤖</h2>  
+<h3 style="color:#00ff88;">⚡ חי, יוצר, פורץ גבולות – כל יום עוד שלב בעלילה שלי. ⚡</h3>
+
+</div>
+
 ![AnLoMinus_ Elements in Balance](https://github.com/user-attachments/assets/97d274e2-f9d5-4001-a34c-5b8a53d76fb4)
+
+
+
 
 # 🎯 משה לאון יעקובוב | מומחה אבטחת מידע ותשתיות
 
