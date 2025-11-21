@@ -6,10 +6,14 @@
 
 <audio controls>
   <source src="https://github.com/user-attachments/files/23679299/AnLoMinus.Bereshit.Energy.Flow.mp3" type="audio/mpeg" />
+
+  [AnLoMinus ~ Bereshit Energy Flow.mp3](https://github.com/user-attachments/files/23679299/AnLoMinus.Bereshit.Energy.Flow.mp3)
+  
   AnLoMinus ~ Bereshit Energy Flow
+  
 </audio>
 
-[AnLoMinus ~ Bereshit Energy Flow.mp3](https://github.com/user-attachments/files/23679299/AnLoMinus.Bereshit.Energy.Flow.mp3)
+[▶️ Play the track](https://github.com/user-attachments/files/23679299/AnLoMinus.Bereshit.Energy.Flow.mp3)
 
 
 ![AnLoMinus_ Elements in Balance](https://github.com/user-attachments/assets/97d274e2-f9d5-4001-a34c-5b8a53d76fb4)
