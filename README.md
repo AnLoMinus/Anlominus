@@ -4,6 +4,14 @@
 <h2 style="color:#00ccff;">🤖 העתיד כבר כאן, אני רק מחבר את החוטים. 🤖</h2>  
 <h3 style="color:#00ff88;">⚡ חי, יוצר, פורץ גבולות – כל יום עוד שלב בעלילה שלי. ⚡</h3>
 
+<audio controls>
+  <source src="https://github.com/user-attachments/files/23679299/AnLoMinus.Bereshit.Energy.Flow.mp3" type="audio/mpeg" />
+  AnLoMinus ~ Bereshit Energy Flow
+</audio>
+
+[AnLoMinus ~ Bereshit Energy Flow.mp3](https://github.com/user-attachments/files/23679299/AnLoMinus.Bereshit.Energy.Flow.mp3)
+
+
 ![AnLoMinus_ Elements in Balance](https://github.com/user-attachments/assets/97d274e2-f9d5-4001-a34c-5b8a53d76fb4)
 
 ### [ **🔥 נר לרגלי דברך** ](https://github.com/AnLoMinus/PathLight) : "ה' אורי וישעי ממי אירא" (תהילים כ״ז)י 
