@@ -19,11 +19,17 @@
 </div>
 
 
-# 🎯 משה לאון יעקובוב | מומחה אבטחת מידע ותשתיות
+
+<div align="center">
+  <h2> 🎯 משה לאון יעקובוב | מומחה אבטחת מידע ותשתיות</h2>
+<img width="1440" height="23" alt="image" src="https://github.com/user-attachments/assets/70de0af5-9684-4294-a014-2c2b0cc66731" />
+
 
 ## 🔱 "אנחנו מאמינים באלוקים, כל השאר חשודים" 🔱
 
 ## 🔱 "בטחון דיגיטלי בעידן המודרני" 🔱
+
+</div>
 
 > מומחה אבטחת מידע בכיר עם 15+ שנות ניסיון בפיתוח, תשתיות ואבטחת מידע. מוביל פרויקטים חדשניים המשלבים AI, אוטומציה ואבטחה מתקדמת.
 
