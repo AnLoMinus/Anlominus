@@ -15,8 +15,6 @@
 <img width="1440" height="23" alt="image" src="https://github.com/user-attachments/assets/70de0af5-9684-4294-a014-2c2b0cc66731" />
 
 
-## 🔱 "אנחנו מאמינים באלוקים, כל השאר חשודים" 🔱
-
 ## 🔱 "בטחון דיגיטלי בעידן המודרני" 🔱
 
 </div>
@@ -126,19 +124,6 @@ Pull requests, ideas, and magic are always welcome ✨
 | 🪄 Creative Portals | Soon on GitHub Pages                                         |
 
 📩 DM for collabs, branding, music projects, or cosmic missions.
-
----
-
-## 🛡️ Credits · Time · Blessings
-
-📅 Updated: **07.12.2025** — ט״ז כסלו תשפ״ו
-⏱️ **Live Time:** 09:20 (Israel)
-
-📜 **Verse for Strength**
-
-> “וִיהִי נֹעַם ה' אֱלֹקינוּ עָלֵינוּ,
-> וּמַעֲשֵׂה יָדֵינוּ כּוֹנְנָה עָלֵינוּ”
-> **Measure 21 — Vision** 🌟
 
 ---
 
