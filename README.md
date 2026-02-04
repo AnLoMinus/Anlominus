@@ -18,4 +18,4 @@
 
 <div align="center">
 
-  <img width="1440" height="23" alt="image" src="https://github.com/user-attachments/assets/70de0af5-9684-4294-a014-2c2b0cc66731" />
+<img width="749" height="43" alt="image" src="https://github.com/user-attachments/assets/9fd489de-1915-41f5-951c-b37d8f4d3531" />
