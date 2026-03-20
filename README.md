@@ -17,7 +17,6 @@ design into **realities**. 🚀
 
 <div align="center">
 
-
 ## 🔱 "בטחון דיגיטלי בעידן המודרני" 🔱
 
 <h1 style="color:#ff6600;">🔥 אם אין דרך – אני בונה אחת. 🔥</h1>  
@@ -38,3 +37,6 @@ design into **realities**. 🚀
 <img width="749" height="43" alt="image" src="https://github.com/user-attachments/assets/9fd489de-1915-41f5-951c-b37d8f4d3531" />
 
 <img width="687" height="814" alt="image" src="https://github.com/user-attachments/assets/c335f0c2-5910-4182-bc04-32a7d0940278" />
+
+
+<a href="https://drive.google.com/drive/folders/1z9Qv7BwxQBVozFJljHjMes0XB8nwHE7V?usp=sharing">קדושה</a>
