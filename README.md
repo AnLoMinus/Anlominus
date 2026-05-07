@@ -1,5 +1,6 @@
-
 <div align="center">
+
+  <img width="1983" height="793" alt="Golden lion-tech fusion banner design" src="https://github.com/user-attachments/assets/9b6542fb-9bf1-4ef3-a866-5b9311792015" />
 
 ## ✨ AnLoMinus 🧬
 
