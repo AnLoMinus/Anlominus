@@ -42,6 +42,8 @@ design into **realities**. 🚀
 
 <a href="https://drive.google.com/drive/folders/1z9Qv7BwxQBVozFJljHjMes0XB8nwHE7V?usp=sharing">קדושה</a>
 
+<a href="https://drive.google.com/file/d/1gTPrErXNuKw0zBS52HCUtf1-smOlFByS/view?usp=sharing">קורות חיים</a>
+
 
 ----
 
